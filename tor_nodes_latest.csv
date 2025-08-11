@@ -63,7 +63,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.195.71.244,ExitNode,DigiGesTor1e2,8443,0,EFGHRSDV,972069,Tor 0.4.8.17,email:abuse-ripe[]digitale-gesellschaft.ch url:https://www.digitale-gesellschaft.ch proof:uri-rsa,2025-08-11
 84.239.46.144,ExitNode,ClubPhantom,9001,0,EFGHRSDV,867606,Tor 0.4.8.17,,2025-08-11
 178.175.135.137,,,,,,,,,2025-08-11
-92.244.31.28,,,,,,,,,2025-08-11
+157.180.120.114,,,,,,,,,2025-08-11
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-11
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-11
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-11
@@ -175,7 +175,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 70.34.253.46,,Maciak22,9001,0,FRV,712877,Tor 0.4.8.17,&lt;3BBD E80E C34C 8CB2 3538 E1AE B7F7 21EE 51E9 0A12&gt; tor AT papajakwatykaniak DOT pro,2025-08-11
 54.37.80.38,,prsv,9700,0,FGRSDV,259217,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-11
 102.216.253.33,,prsv,9100,0,FRSDV,3,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-11
-89.168.28.192,,Aleff2,443,0,FGHRSDV,928806,Tor 0.4.8.17,Alessandro Greco &lt;alessandro DOT greco DOT 1 AT protonmail DOT com&gt;,2025-08-11
 64.65.1.8,,diamondatl,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
 70.32.195.33,,middlingmanchild,9001,0,FGHRSDV,3574004,Tor 0.4.8.12,kazirt@protonmail.com,2025-08-11
 77.90.4.135,,LatenzLasse,9001,0,FGHRSDV,2055620,Tor 0.4.8.16,Marc Fischer &lt;marc.fischer@packets-decraser.net&gt;,2025-08-11
@@ -345,6 +344,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 45.33.124.98,,cryonoxnet,9001,0,FHRSDV,23983226,Tor 0.4.8.13,Cryonox.net TOR Admin &lt;toradmin AT cryonox dot net&gt;,2025-08-11
 103.241.51.34,,GermanCraft8,443,0,FGHRSDV,892812,Tor 0.4.8.17,ContactInfo email:knight AT germancraft dot net url:germancraft.net proof:dns-rsa abuse:knight AT,2025-08-11
 104.168.28.159,,Spied7439,9001,0,FGRSDV,2,Tor 0.4.9.2-alpha-dev,4E71835210698C55B7D0D7AC634211669EAF7176 admin &lt;tor dash admin AT san-jose dot linuxprivacy dot com&gt;,2025-08-11
+193.181.209.200,,,,,,,,,2025-08-11
 64.65.62.35,,natanaelcano,443,0,FGHRSDV,1339400,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
 213.139.243.22,,LABTOR03,443,0,FGHRSDV,453657,Tor 0.4.8.10,,2025-08-11
 102.211.56.200,ExitNode,obzgs5tbmn4q,9003,0,EFRDV,550460,Tor 0.4.8.17,email:obzgs5tbmn4q[]proton.me url:https://obzgs5tbmn4q.org proof:uri-rsa pgp:C06A55EDC4C2D580D1E1D4C38B4E1E0B1C843DD4,2025-08-11
@@ -838,6 +838,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 195.201.59.21,,gaeta,9001,0,FGRSDV,2,Tor 0.4.8.10,tor-relay@littleroot.de,2025-08-11
 23.191.200.29,ExitNode,UnredactedXMR,443,0,EFRDV,277202,Tor 0.4.8.16,email:admin[@]unredacted.org url:unredacted.org proof:uri-rsa ciissversion:2,2025-08-11
 145.220.0.15,,Schmutzig,9001,0,FGHRSDV,1960860,Tor 0.4.8.16,Gijs Rijnders (tor AT ip-eend DOT nl),2025-08-11
+128.31.34.92,,,,,,,,,2025-08-11
 194.147.140.107,,tor107,995,0,FGRSDV,194483,Tor 0.4.8.12,tor107 &lt;tor107 AT ip-connect dot info&gt;,2025-08-11
 192.211.48.226,,thoughts,443,0,FGHRSDV,19047741,Tor 0.4.8.13,,2025-08-11
 73.170.126.220,,ANiceRelay,9001,0,FGHRSDV,3045637,Tor 0.4.8.16,Anonymous &lt;anon AT nowhere dot com&gt;,2025-08-11
@@ -895,7 +896,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 79.117.113.156,,venusseries,9002,0,FGHRSDV,5636373,Tor 0.4.8.16,theres-no-email-for@bots.com,2025-08-11
 45.14.233.249,,mikrogravitationC,443,0,FGHRSDV,7041696,Tor 0.4.8.16,tor vidister de,2025-08-11
 175.212.206.103,,WIMR,9009,0,FRSV,15519695,Tor 0.4.8.12,your@e-mail,2025-08-11
-109.205.195.141,,,,,,,,,2025-08-11
 89.69.180.20,,dnCTFEX9u4G6JxH,19001,0,FRSDV,4803382,Tor 0.4.8.16,,2025-08-11
 64.65.1.109,,swaelee,443,0,FGHRSDV,1879251,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
 172.232.54.164,,ShaderNodeTx,9001,0,FHRSDV,4622908,Tor 0.4.8.14,,2025-08-11
@@ -907,6 +907,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 87.236.199.239,,Liberation,444,0,FGHRSDV,7621222,Tor 0.4.8.16,j.abrahim99_at_proton (dot) me,2025-08-11
 45.66.35.10,ExitNode,bsdizum,1984,0,EFGHRSDV,5004175,Tor 0.4.8.13,email:usura[]sabotage.org url:https://sabotage.net proof:uri-rsa abuse:abuse[]sabotage.net twitter:adejoode,2025-08-11
 96.9.98.39,,ynjay,443,0,FGHRSDV,4057272,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
+138.118.108.236,,,,,,,,,2025-08-11
 24.247.96.176,,MiRelay,9001,0,FHRSDV,518475,Tor 0.4.8.13,levasseuradmin@charter.net,2025-08-11
 89.221.219.123,,7cpbbQ,60009,0,FRSV,2048410,Tor 0.4.8.10,nsrs@cock.li,2025-08-11
 135.125.239.70,,,,,,,,,2025-08-11
@@ -1160,7 +1161,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.63.5,,zro,443,0,FGHRSDV,1872074,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
 185.220.101.205,,ForPrivacyNET,8443,0,FGHRSDV,6508882,Tor 0.4.8.16,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2025-08-11
 87.106.35.94,,Unnamed,443,0,FRDV,5,Tor 0.4.8.17,tor@easterbrook.org,2025-08-11
-80.129.19.123,,,,,,,,,2025-08-11
 96.9.98.13,,machhommy,443,0,FGHRSDV,4057250,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
 82.223.39.79,,percebimientos1,9001,0,FGRSDV,6695794,Tor 0.4.8.12,,2025-08-11
 66.146.193.33,ExitNode,LunaTor,9001,0,EFGHRSDV,842443,Tor 0.4.8.17,0xA90AFCF81406CC27 &lt;sjk@dredel.com&gt;,2025-08-11
@@ -1408,99 +1408,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 212.51.155.254,,wuwei,9001,0,FGHRSDV,4006834,Tor 0.4.8.16,kzjaaqwfnabb protonmail com,2025-08-11
 198.46.166.157,ExitNode,TakTor03,443,0,EFHRSDV,12679281,Tor 0.4.8.10,ContactInfo email:tak.tor.operator[]gmail.com url:https://tak.io/ keybase:mtak dnslocation:local dnsqname:y,2025-08-11
 217.76.159.216,,Platypus,443,0,FGHRSDV,1736048,Tor 0.4.8.17,platypus-tor-node/at/proton/dot/me,2025-08-11
-93.185.165.247,,AntonPann1,443,0,FGHRSDV,6035978,Tor 0.4.8.16,privacyhaven@duck.com,2025-08-11
-185.220.101.13,ExitNode,artikel10ber52,9004,0,EFRV,107828,Tor 0.4.8.17,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2025-08-11
-193.182.111.42,,ParadiseTorRelay2,443,0,FGHRSDV,1742425,Tor 0.4.8.17,Dave Null &lt;dave@null.net&gt;,2025-08-11
-45.84.107.172,ExitNode,r0cket08i6,5349,0,EFRSV,849609,Tor 0.4.8.17,email:tor[]r0cket.net url:https://tor.r0cket.net/ proof:uri-rsa abuse:abuse[]r0cket.net hoster:r0cket.cloud,2025-08-11
-5.9.14.30,,TorHet4,993,0,FGHRSDV,2088015,Tor 0.4.8.16,Viktor &lt;vnikolov AT vnikolov dot cz&gt;,2025-08-11
-91.245.255.87,,tinaTOR,9001,0,FRSV,394293,Tor 0.4.8.17,jamar1992@protonmail.com,2025-08-11
-87.236.194.23,,khao,443,0,FGRSDV,259217,Tor 0.4.8.17,,2025-08-11
-185.220.100.252,ExitNode,F3Netze,9100,0,EFHRSDV,673682,Tor 0.4.8.17,F3 Netze &lt;abuse@f3netze.de&gt; email:abuse[]f3netze.de abuse:abuse[]f3netze.de url:www.f3netze.de proof:uri-rsa,2025-08-11
-62.210.123.24,,Alastor,443,0,FGHRSDV,712848,Tor 0.4.8.17,,2025-08-11
-66.176.115.175,,,,,,,,,2025-08-11
-37.114.33.10,,,,,,,,,2025-08-11
-193.160.96.55,,,,,,,,,2025-08-11
-194.110.60.12,,,,,,,,,2025-08-11
-64.65.1.54,,,,,,,,,2025-08-11
-193.233.247.77,,,,,,,,,2025-08-11
-45.32.189.215,,,,,,,,,2025-08-11
-5.101.82.22,,,,,,,,,2025-08-11
-185.126.255.22,,,,,,,,,2025-08-11
-37.101.119.148,,,,,,,,,2025-08-11
-209.148.46.45,,,,,,,,,2025-08-11
-107.189.4.12,,,,,,,,,2025-08-11
-64.65.62.37,,,,,,,,,2025-08-11
-108.52.49.167,,,,,,,,,2025-08-11
-178.254.20.38,,,,,,,,,2025-08-11
-64.65.1.72,,,,,,,,,2025-08-11
-185.35.202.222,,,,,,,,,2025-08-11
-103.28.53.25,,,,,,,,,2025-08-11
-104.254.130.186,,,,,,,,,2025-08-11
-38.135.25.143,,,,,,,,,2025-08-11
-5.255.114.171,,,,,,,,,2025-08-11
-94.159.106.203,,,,,,,,,2025-08-11
-35.222.146.111,,,,,,,,,2025-08-11
-129.146.122.189,,,,,,,,,2025-08-11
-45.9.168.43,,,,,,,,,2025-08-11
-185.161.210.189,,,,,,,,,2025-08-11
-45.45.216.57,,,,,,,,,2025-08-11
-138.3.243.165,,,,,,,,,2025-08-11
-134.209.85.230,,,,,,,,,2025-08-11
-45.66.35.33,,,,,,,,,2025-08-11
-128.31.0.39,,,,,,,,,2025-08-11
-108.181.120.131,,,,,,,,,2025-08-11
-139.162.11.98,,,,,,,,,2025-08-11
-93.95.231.115,,,,,,,,,2025-08-11
-157.131.125.71,,,,,,,,,2025-08-11
-107.189.10.86,,,,,,,,,2025-08-11
-91.208.75.156,,,,,,,,,2025-08-11
-45.76.48.130,,,,,,,,,2025-08-11
-85.239.34.24,,,,,,,,,2025-08-11
-45.14.233.250,,,,,,,,,2025-08-11
-147.78.240.211,,,,,,,,,2025-08-11
-185.120.137.202,,,,,,,,,2025-08-11
-179.43.158.176,,,,,,,,,2025-08-11
-37.27.3.199,,,,,,,,,2025-08-11
-96.9.98.230,,,,,,,,,2025-08-11
-185.163.45.253,,,,,,,,,2025-08-11
-185.120.145.83,,,,,,,,,2025-08-11
-64.65.1.67,,,,,,,,,2025-08-11
-45.125.65.112,,,,,,,,,2025-08-11
-185.124.240.109,,,,,,,,,2025-08-11
-109.70.100.4,,,,,,,,,2025-08-11
-5.255.104.202,,,,,,,,,2025-08-11
-64.65.1.76,,,,,,,,,2025-08-11
-195.123.228.129,,,,,,,,,2025-08-11
-23.163.216.135,,,,,,,,,2025-08-11
-185.162.249.126,,,,,,,,,2025-08-11
-66.179.92.76,,,,,,,,,2025-08-11
-79.215.173.46,,,,,,,,,2025-08-11
-81.229.149.244,,,,,,,,,2025-08-11
-46.28.109.233,,,,,,,,,2025-08-11
-95.216.16.167,,,,,,,,,2025-08-11
-2.58.56.65,,,,,,,,,2025-08-11
-137.226.34.45,,,,,,,,,2025-08-11
-5.182.48.187,,,,,,,,,2025-08-11
-23.191.200.17,,,,,,,,,2025-08-11
-85.23.104.222,,,,,,,,,2025-08-11
-188.68.58.105,,,,,,,,,2025-08-11
-116.203.50.182,,,,,,,,,2025-08-11
-142.132.157.35,,,,,,,,,2025-08-11
-188.68.41.54,,,,,,,,,2025-08-11
-84.46.83.130,,,,,,,,,2025-08-11
-129.159.146.81,,,,,,,,,2025-08-11
-45.84.107.236,,,,,,,,,2025-08-11
-185.220.101.100,,,,,,,,,2025-08-11
-64.65.62.123,,,,,,,,,2025-08-11
-45.66.43.220,,,,,,,,,2025-08-11
-152.53.251.172,,,,,,,,,2025-08-11
-104.220.191.127,,,,,,,,,2025-08-11
-64.65.0.55,,,,,,,,,2025-08-11
-216.144.233.143,,,,,,,,,2025-08-11
-82.213.196.64,,,,,,,,,2025-08-11
-185.220.101.99,,,,,,,,,2025-08-11
-66.31.227.172,,,,,,,,,2025-08-11
-64.65.1.6,,,,,,,,,2025-08-11
-95.216.11.95,,,,,,,,,2025-08-11
-54.39.107.185,,,,,,,,,2025-08-11
-185.191.204.254,,,,,,,,,2025
+93.185.165.247,,AntonPann1,443,0,FGHRSDV,6035978,Tor 0.4.8.16,privacyhaven@duck.com,2025-
