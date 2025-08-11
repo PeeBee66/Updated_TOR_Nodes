@@ -398,6 +398,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 178.254.25.106,,jhsforthtorrelay,9001,0,FHRSDV,2667839,Tor 0.4.8.8,Jonas Hess &lt;tor@jonashess.net&gt;,2025-08-11
 45.129.199.84,,,,,,,,,2025-08-11
 170.64.203.139,ExitNode,Hella,9999,0,BFRSVX,2059231,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-11
+104.131.11.214,,,,,,,,,2025-08-11
 98.232.88.235,,coffeeaddict,9001,0,RSDV,621784,Tor 0.4.8.12,,2025-08-11
 23.92.34.41,,MartinHarrison13710,443,0,FGHRSDV,39085896,Tor 0.4.8.11,,2025-08-11
 141.147.54.226,,LV426,9001,0,FHRSDV,846079,Tor 0.4.8.17,Jeroen Haadenvelt &lt;relay@otr.dreamhosters.com&gt;,2025-08-11
@@ -602,6 +603,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 195.231.39.28,,Runaz4,443,0,FGHRSDV,842458,Tor 0.4.8.17,tor bruzzzla.de,2025-08-11
 212.159.69.155,,FuckYouPutin,443,0,FGHRSDV,7006898,Tor 0.4.8.10,,2025-08-11
 192.42.116.210,ExitNode,NTH13R4,9003,0,EFGHRSDV,518414,Tor 0.4.8.16,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2025-08-11
+84.192.122.191,,,,,,,,,2025-08-11
 166.70.207.2,,,,,,,,,2025-08-11
 45.148.122.114,,Assange014nl,9001,0,FRSV,712822,Tor 0.4.8.17,BMTY90VKYRQPUJZOTH[@]Safe-mail.net,2025-08-11
 64.255.46.18,,SlimeTrail01,9001,0,FRSV,2,Tor 0.4.8.17,0xCEDABCBC08FBADD18668AF818111C31BC6AF8F91 Operator &lt;operator@slugnet.org&gt;,2025-08-11
@@ -783,6 +785,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 15.204.142.37,,moosegrease,443,0,FGHRSDV,18752422,Tor 0.4.8.13,,2025-08-11
 195.47.238.92,ExitNode,noack10i2,995,0,EFGHRSDV,777640,Tor 0.4.8.17,mikael[]datanerd.se,2025-08-11
 85.215.249.184,,arlisRelay,443,0,FGHRSDV,23197015,Tor 0.4.8.13,arli@arli21.me,2025-08-11
+151.217.169.242,,,,,,,,,2025-08-11
 198.46.234.171,,opencommunity,9954,0,FGHRSDV,972083,Tor 0.4.8.17,opencommunities __at__ proton.me,2025-08-11
 64.65.1.165,,lordinfamous,443,0,FGHRSDV,1904406,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
 51.81.209.86,,YayEdSnowden,9001,0,FGHRSDV,453616,Tor 0.4.8.17,Scott Maxwell tor-contact-2025-typhon (at) scottmaxwell (dot) org,2025-08-11
@@ -1209,7 +1212,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 193.31.27.127,,luna,9001,0,FGHRSDV,712824,Tor 0.4.8.16,,2025-08-11
 91.132.144.59,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,4114836,Tor 0.4.8.16,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2025-08-11
 82.165.206.196,,Infiltrator,9001,0,RSDV,21826872,Tor 0.4.8.13,torATloDELETErenzDASHpullREMOVEwittDOTde,2025-08-11
-193.142.59.232,,requiemForARelay,9119,0,FHRSDV,1050018,Tor 0.4.8.16,,2025-08-11
 5.255.123.158,ExitNode,BehemothLTDNL1,9001,0,EFGHRSDV,1101670,Tor 0.4.8.16,Behemoth Project Anonimity &lt;make-tor-great-again@encrypt.co.il&gt;,2025-08-11
 103.17.154.38,,Triplebit38,993,0,FGHRSDV,1555643,Tor 0.4.8.16,url:https://www.triplebit.org mastodon:https://mstdn.plus/@triplebit email:relays[]triplebit.net trafficacct:unmetered,2025-08-11
 91.92.109.23,,whatscrackin,443,0,FGRSDV,64808,Tor 0.4.8.17,,2025-08-11
@@ -1450,6 +1452,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 139.162.11.98,,singaporemickey,443,0,FRSV,259223,Tor 0.4.8.12,Tor Admin &lt;singapore_node!AT!wilkensteen!dot!org&gt;,2025-08-11
 93.95.231.115,,MetalsAG,9001,0,FGHRSDV,7984817,Tor 0.4.8.16,,2025-08-11
 157.131.125.71,,Unnamed,9001,0,FHRSDV,1180816,Tor 0.4.8.16,,2025-08-11
+107.189.10.86,,,,,,,,,2025-08-11
 91.208.75.156,ExitNode,nobutaka,443,0,EFGRSDV,64804,Tor 0.4.8.17,jets843@privatemail.com,2025-08-11
 45.76.48.130,,ScottMFred,52971,0,FRSV,7924554,Tor 0.4.8.10,Scott M. Frederick &lt;ScottM.Frederick[at]proton.me&gt;,2025-08-11
 85.239.34.24,,Spellbound,9001,0,FGHRSDV,1069510,Tor 0.4.8.16,,2025-08-11
@@ -1478,6 +1481,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 2.58.56.65,ExitNode,koleediaz,9001,0,EFRDV,131476,Tor 0.4.8.17,,2025-08-11
 137.226.34.45,,FTPhalifaxRWTH,9008,0,FGHRSDV,928807,Tor 0.4.8.17,0x8D41788E90924014 Carsten Otto &lt;tor@c-otto.de&gt; url:ftp.halifax.rwth-aachen.de proof:uri-rsa ciissversion:2,2025-08-11
 5.182.48.187,,,,,,,,,2025-08-11
-23.191.200.17,,,,,,,,,2025-08-11
-85.23.104.222,,,,,,,,,2025-08-11
-188.68.58.105,,,,,,,
+23.191.200.17,,,,,,,,,2025-08
