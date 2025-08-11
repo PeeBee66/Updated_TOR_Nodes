@@ -283,6 +283,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 141.255.161.167,,avdjusko,443,0,FGRSDV,259222,Tor 0.4.8.17,,2025-08-11
 87.106.216.168,,etinet,443,0,FGHRSDV,1958403,Tor 0.4.8.13,tor@eti-net.de,2025-08-11
 148.251.46.115,,fusion,9001,0,FGHRSDV,583388,Tor 0.4.8.17,email:foxwells[]riseup.net,2025-08-11
+172.104.136.182,,,,,,,,,2025-08-11
 185.100.87.61,,fffb,9001,0,FRDV,12678425,Tor 0.4.8.14,dmho &lt;tor /\ dmho )point( de&gt;,2025-08-11
 94.46.171.245,,sunandfun03,9001,0,FGHRSDV,7722132,Tor 0.4.8.16,,2025-08-11
 190.211.254.76,,apollo112,9001,0,FGHRSDV,518448,Tor 0.4.8.17,,2025-08-11
@@ -1477,38 +1478,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 46.28.109.233,,Assange043cz,9001,0,FGHRSDV,1472440,Tor 0.4.8.16,BMTY90VKYRQPUJZOTH[@]Safe-mail.net,2025-08-11
 95.216.16.167,,Runaz,8888,0,FGHRSDV,842464,Tor 0.4.8.17,tor@bruzzzla.de,2025-08-11
 2.58.56.65,ExitNode,koleediaz,9001,0,EFRDV,131476,Tor 0.4.8.17,,2025-08-11
-137.226.34.45,,FTPhalifaxRWTH,9008,0,FGHRSDV,928807,Tor 0.4.8.17,0x8D41788E90924014 Carsten Otto &lt;tor@c-otto.de&gt; url:ftp.halifax.rwth-aachen.de proof:uri-rsa ciissversion:2,2025-08-11
-5.182.48.187,,TheShadowRoute17,9001,0,FGHRSDV,2444432,Tor 0.4.8.16,itsme+shdrt17@hobi.one,2025-08-11
-23.191.200.17,ExitNode,UnredactedCalyx,443,0,EFGHRSDV,1493745,Tor 0.4.8.16,email:admin[@]unredacted.org url:unredacted.org proof:uri-rsa ciissversion:2,2025-08-11
-85.23.104.222,,Unnamed,443,0,FGHRSDV,10372455,Tor 0.4.8.16,,2025-08-11
-188.68.58.105,,nononicetry,4825,0,FGHRSDV,972048,Tor 0.4.8.17,nicetrynono@gmail.com,2025-08-11
-116.203.50.182,,dragonhoard,8080,0,FGHRSDV,6033606,Tor 0.4.8.16,torrelay ~at~ kieran(dot)de,2025-08-11
-142.132.157.35,,D4rkKn1gh7,8443,0,FGHRSDV,3683007,Tor 0.4.8.16,contact me at : darkknight &lt;AT&gt; binaryvault &lt;DOT&gt; net,2025-08-11
-188.68.41.54,,Start100,443,0,FRSV,842434,Tor 0.4.8.17,tor.start100@gmail.com,2025-08-11
-84.46.83.130,,zerberusTor,9001,0,FGHRSDV,928463,Tor 0.4.8.16,,2025-08-11
-129.159.146.81,,Unnamed,9001,0,FRSV,129776,Tor 0.4.8.16,GhostInTheCircuit &lt;ghost.in.the.circuit.op@proton.me&gt;,2025-08-11
-45.84.107.236,,SlackSucks,8443,0,FGHRSDV,6588252,Tor 0.4.8.16,w3x0cvqh7u4dccyj7369zy6@proton.me,2025-08-11
-185.220.101.100,ExitNode,Digitalcourage4ipeb,993,0,EFGHRSDV,651617,Tor 0.4.8.17,Digitalcourage e.V. email:tor-abuse[]digitalcourage.de abuse:tor-abuse[]digitalcourage.de gpg:E15DC6C7F762E6FEBBB71B343F829E352,2025-08-11
-64.65.62.123,,wizkid,443,0,FGHRSDV,1343061,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
-45.66.43.220,,StygianEye01,9001,0,FRSV,62,Tor 0.4.8.16,stygianeye-tor1@curvenyx.com,2025-08-11
-152.53.251.172,,FeidhlimNetcup01,9001,0,FGHRSDV,1753581,Tor 0.4.8.14,Feidhlim &lt;tor@feidhlim.de&gt;,2025-08-11
-104.220.191.127,,meox,6901,0,FHRSDV,9442811,Tor 0.4.8.16,@meox_:nitro.chat(matrix),2025-08-11
-64.65.0.55,,richboy,443,0,FGHRSDV,1926025,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
-216.144.233.143,,bffs4m8b5nrz5ax1,9001,0,FGHRSDV,2091694,Tor 0.4.8.14,dataal20b8xn@proton.me,2025-08-11
-82.213.196.64,,DaReDeleting,10001,0,FGHRSDV,972087,Tor 0.4.8.16,daredeleting@proton.me,2025-08-11
-185.220.101.99,ExitNode,Digitalcourage4ipdb,993,0,EFGHRSDV,651616,Tor 0.4.8.17,Digitalcourage e.V. email:tor-abuse[]digitalcourage.de abuse:tor-abuse[]digitalcourage.de gpg:E15DC6C7F762E6FEBBB71B343F829E352,2025-08-11
-66.31.227.172,,MalfunctioningEddy,9001,0,FRDV,844700,Tor 0.4.8.17,,2025-08-11
-64.65.1.6,,yungla,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
-95.216.11.95,,Frittenbude,9001,0,FGHRSDV,839573,Tor 0.4.8.17,,2025-08-11
-54.39.107.185,,phil,443,0,FGHRSDV,2134839,Tor 0.4.8.12,captainsonic-tor [@] protonmail.com,2025-08-11
-185.191.204.254,ExitNode,DuckYou,443,0,EFGHRSDV,10762164,Tor 0.4.8.16,DuckSounds31@aol.com,2025-08-11
-217.154.58.238,,torud2,443,0,FGHRSDV,3507668,Tor 0.4.8.16,,2025-08-11
-45.59.236.90,,Mesocyclone,9002,0,FHRSDV,1652666,Tor 0.4.8.14,tornadogenesis@gmx.com,2025-08-11
-205.185.117.149,ExitNode,Mjolnir,443,0,EFGHRSDV,907257,Tor 0.4.8.17,mjolnirrelay(at)protonmail(dot)com,2025-08-11
-86.125.65.169,,privacyprotector,9001,0,FRSDV,64890,Tor 0.4.8.12,privacyprotectorrelay@proton.me,2025-08-11
-23.191.200.8,ExitNode,UnredactedArea51,443,0,EFGHRSDV,1366389,Tor 0.4.8.16,email:admin[@]unredacted.org url:unredacted.org proof:uri-rsa ciissversion:2,2025-08-11
-88.113.153.145,,tornode,9001,0,FRSV,349207,Tor 0.4.8.16,tornodenodetor@gmail.com,2025-08-11
-192.42.116.203,ExitNode,NTH40R4,9003,0,EFGHRSDV,518481,Tor 0.4.8.16,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2025-08-11
-64.65.62.133,,shattawale,443,0,FGHRSDV,1342885,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-11
-185.220.101.141,ExitNode,relayon0141,10141,0,EFRSV,2746876,Tor 0.4.8.13,url:relayon.org proof:uri-rsa abuse:abuse[]relayon.org ciissversion:2,2025-08-11
-185.220.101.108,ExitNode,Digitalcourage4ip5b,993,0,EFGHRSDV,651617,Tor 0.4.8.17,Digitalcou
+137.226.34.45,,FTPhalifaxRWTH,9008,0,FGHRSDV,928807,Tor 0.4.8.17,0x8D41788E90924014 Carsten Otto &lt;tor@c-otto.de&gt; url:ftp.halifax.rwth-aachen.de proof:uri-rsa ciissversion:2,2
