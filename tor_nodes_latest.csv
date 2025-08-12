@@ -64,6 +64,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 84.239.46.144,ExitNode,ClubPhantom,9001,0,EFGHRSDV,867606,Tor 0.4.8.17,,2025-08-12
 178.175.135.137,,,,,,,,,2025-08-12
 157.180.120.114,,,,,,,,,2025-08-12
+92.244.31.28,,,,,,,,,2025-08-12
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-12
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-12
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-12
@@ -155,6 +156,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 129.159.148.184,,unrigged,443,0,FGRSDV,64879,Tor 0.4.8.10,relay.unrigged155@simplelogin.com,2025-08-12
 193.31.31.89,,ATorRelay,443,0,FGHRSDV,2204506,Tor 0.4.8.10,contact@justamailbox.net,2025-08-12
 104.244.78.162,ExitNode,kowallah,443,0,EFGHRSDV,2833282,Tor 0.4.8.16,name is Blaze --- blazeready@Mail.com,2025-08-12
+207.180.192.66,,,,,,,,,2025-08-12
 64.65.62.54,,submarineman,443,0,FGHRSDV,1296145,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 79.228.203.231,,,,,,,,,2025-08-12
 47.198.108.45,,fennec,9090,0,RDV,63,Tor 0.4.8.17,spam@fennec.lol,2025-08-12
@@ -557,6 +559,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 148.251.33.107,,magic848relay,9001,0,FGHRSDV,583283,Tor 0.4.8.16,tor-operator@mufff.in,2025-08-12
 165.232.130.0,,iiyatsu,9001,0,RSDV,194474,Tor 0.4.8.14,Random Person nobody@tor.org,2025-08-12
 202.71.14.100,,prsv,9300,0,FGRSDV,64805,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-12
+139.99.74.166,,,,,,,,,2025-08-12
 198.12.97.252,,add1ct,443,0,FRSV,546543,Tor 0.4.8.12,el33tenigma@proton.me,2025-08-12
 177.153.20.241,,th3gu4rd1an,9001,0,FHRSDV,3521034,Tor 0.4.8.16,eaymyshorts@gmail.com,2025-08-12
 138.2.77.99,,Mordor,9090,0,FHRSDV,4381388,Tor 0.4.8.11,Dasun Nimantha dasun4@pm.me,2025-08-12
@@ -921,7 +924,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 180.150.226.99,,,,,,,,,2025-08-12
 195.47.238.83,,,,,,,,,2025-08-12
 91.219.23.77,,,,,,,,,2025-08-12
-45.138.16.239,,,,,,,,,2025-08-12
-64.65.1.91,,,,,,,,,2025-08-12
-172.241.251.132,,,,,,,,,2025-08-12
-51.15.23
+45.138.
