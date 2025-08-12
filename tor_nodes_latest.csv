@@ -337,6 +337,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.220.101.199,,ForPrivacyNET,8443,0,FGHRSDV,6494541,Tor 0.4.8.16,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2025-08-12
 152.67.219.161,,DontBeEllison,443,0,FRSDV,64808,Tor 0.4.8.17,Dan &lt; xiaoqic at cs dot princeton dot edu &gt;,2025-08-12
 217.182.75.0,,Darkheroes,9001,0,FGHRSDV,2696773,Tor 0.4.8.11,url:manasiwibi.com proof:uri-rsa ciissversion:2 darkheroes &lt;darkheroes AT tutanota dot com&gt;,2025-08-12
+45.155.142.60,,,,,,,,,2025-08-12
 69.174.98.5,,Zensursula,444,0,FGHRSDV,903606,Tor 0.4.8.17,peca-relay [] mailfence dot com,2025-08-12
 107.189.6.210,,AlphaQuadrant234623,26485,0,FRDV,1112777,Tor 0.4.8.17,0x18FFB9259E11C3BC69ABC8857E65272B32D3C971 f19.4jbg3@gmail.com,2025-08-12
 82.130.24.101,,idideditheconfig,9001,0,FGHRSDV,9896489,Tor 0.4.8.16,,2025-08-12
@@ -399,6 +400,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 96.9.98.77,,sexyyred,443,0,FGHRSDV,4096821,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 178.254.25.106,,jhsforthtorrelay,9001,0,FHRSDV,2667839,Tor 0.4.8.8,Jonas Hess &lt;tor@jonashess.net&gt;,2025-08-12
 170.64.203.139,ExitNode,Hella,9999,0,BFRSVX,2059231,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-12
+104.131.11.214,,,,,,,,,2025-08-12
 98.232.88.235,,coffeeaddict,9001,0,RSDV,621784,Tor 0.4.8.12,,2025-08-12
 23.92.34.41,,MartinHarrison13710,443,0,FGHRSDV,39085896,Tor 0.4.8.11,,2025-08-12
 141.147.54.226,,LV426,9001,0,FHRSDV,846079,Tor 0.4.8.17,Jeroen Haadenvelt &lt;relay@otr.dreamhosters.com&gt;,2025-08-12
@@ -547,7 +549,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 15.204.59.68,,anarchosyndical3,9001,0,FGHRSDV,5238024,Tor 0.4.8.13,tor@anarchosyndical.org,2025-08-12
 198.98.50.117,,theorionarm,9001,0,FGHRSDV,1666876,Tor 0.4.8.17,admin@theorionarm.net,2025-08-12
 185.4.132.148,,libreonion1,443,0,FRDV,518429,Tor 0.4.8.17,tor [AT] libreops [DOT] cc,2025-08-12
-5.255.99.189,,,,,,,,,2025-08-12
 45.14.233.205,,mikrogravitation5,443,0,FGHRSDV,7030877,Tor 0.4.8.16,tor vidister de,2025-08-12
 96.9.98.67,,rob49,443,0,FGHRSDV,4096820,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 5.255.118.218,ExitNode,deadedSouth,443,0,EFGHRSDV,518430,Tor 0.4.8.17,scofflaw@mailfence.com,2025-08-12
@@ -886,4 +887,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 188.40.238.100,,AltFrankfurt1,25162,0,FGHRSDV,975040,Tor 0.4.8.14,whathejingles@gmail.com,2025-08-12
 74.15.95.160,,minchinode3,9001,0,FRSDV,129846,Tor 0.4.8.14,,2025-08-12
 81.197.235.123,,,,,,,,,2025-08-12
-194.147.140.110,,tor102,443,0,FGRSDV,64850,Tor 0.4.8.11,,2025-08-1
+194.147.140.110,,tor102,443,0,
