@@ -222,6 +222,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 74.208.79.7,ExitNode,WindyCity219,443,0,EFGRSDV,3,Tor 0.4.8.10,torservers.domestic736@passmail.net,2025-08-12
 176.58.124.159,ExitNode,Altometer,9999,0,BFRVX,130038,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-12
 5.255.104.239,ExitNode,tornode789,9001,0,BFRSVX,856811,Tor 0.4.8.17,tornode789@pm.me,2025-08-12
+178.156.169.143,,,,,,,,,2025-08-12
 45.83.22.150,,ArchDevilRelay1,4140,0,FRSDV,129672,Tor 0.4.8.17,notHave@example.com,2025-08-12
 24.191.62.109,,toraway,9001,0,RSV,409877,Tor 0.4.8.16,,2025-08-12
 45.84.107.128,ExitNode,r0cket11i6,5349,0,EFRSV,892988,Tor 0.4.8.17,email:tor[]r0cket.net url:https://tor.r0cket.net/ proof:uri-rsa abuse:abuse[]r0cket.net hoster:r0cket.cloud,2025-08-12
@@ -398,7 +399,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 96.9.98.77,,sexyyred,443,0,FGHRSDV,4096821,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 178.254.25.106,,jhsforthtorrelay,9001,0,FHRSDV,2667839,Tor 0.4.8.8,Jonas Hess &lt;tor@jonashess.net&gt;,2025-08-12
 170.64.203.139,ExitNode,Hella,9999,0,BFRSVX,2059231,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-12
-104.131.11.214,,,,,,,,,2025-08-12
 98.232.88.235,,coffeeaddict,9001,0,RSDV,621784,Tor 0.4.8.12,,2025-08-12
 23.92.34.41,,MartinHarrison13710,443,0,FGHRSDV,39085896,Tor 0.4.8.11,,2025-08-12
 141.147.54.226,,LV426,9001,0,FHRSDV,846079,Tor 0.4.8.17,Jeroen Haadenvelt &lt;relay@otr.dreamhosters.com&gt;,2025-08-12
@@ -544,6 +544,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 193.11.114.43,,mdfnet1,9001,0,FGHRSDV,4168841,Tor 0.4.8.16,Markus &lt;markus AT mdfnet dot se&gt;,2025-08-12
 142.202.51.68,,MKDDT,9001,0,FGHRSDV,28448763,Tor 0.4.8.10,,2025-08-12
 95.216.136.46,,rofltor08,9001,0,FRSV,704461,Tor 0.4.8.12,email:tor[]rofl.cat btc:17bD7EWsSXrqrqk2ibbprPxhegMqecsaCy url:rofl.cat proof:dns-rsa autoupdate:y,2025-08-12
+67.63.120.162,,,,,,,,,2025-08-12
 15.204.59.68,,anarchosyndical3,9001,0,FGHRSDV,5238024,Tor 0.4.8.13,tor@anarchosyndical.org,2025-08-12
 198.98.50.117,,theorionarm,9001,0,FGHRSDV,1666876,Tor 0.4.8.17,admin@theorionarm.net,2025-08-12
 185.4.132.148,,libreonion1,443,0,FRDV,518429,Tor 0.4.8.17,tor [AT] libreops [DOT] cc,2025-08-12
@@ -606,7 +607,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 195.231.39.28,,Runaz4,443,0,FGHRSDV,842458,Tor 0.4.8.17,tor bruzzzla.de,2025-08-12
 212.159.69.155,,FuckYouPutin,443,0,FGHRSDV,7006898,Tor 0.4.8.10,,2025-08-12
 192.42.116.210,ExitNode,NTH13R4,9003,0,EFGHRSDV,518414,Tor 0.4.8.16,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2025-08-12
-84.192.122.191,,,,,,,,,2025-08-12
 166.70.207.2,,,,,,,,,2025-08-12
 45.148.122.114,,Assange014nl,9001,0,FRSV,712822,Tor 0.4.8.17,BMTY90VKYRQPUJZOTH[@]Safe-mail.net,2025-08-12
 64.255.46.18,,SlimeTrail01,9001,0,FRSV,2,Tor 0.4.8.17,0xCEDABCBC08FBADD18668AF818111C31BC6AF8F91 Operator &lt;operator@slugnet.org&gt;,2025-08-12
@@ -676,7 +676,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.1.100,,kennymuney,443,0,FGHRSDV,1904406,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 73.68.62.87,,2mpdhack,8443,0,FHRSDV,712889,Tor 0.4.8.17,DoNotDisturb AT NoContact NoWarnings,2025-08-12
 178.20.55.182,ExitNode,marcuse16,19008,0,EFGHRSDV,979235,Tor 0.4.8.17,0x9F29C15D42A8B6F3 Nos oignons - 17WLwtW63FrHeMAEVkALnwhfmizBxGXDW1 email:adminsys[]nos-oignons.net,2025-08-12
-185.141.216.152,,privacyforall,8443,0,FGHRSDV,842422,Tor 0.4.8.17,kibbleandbits@protonmail.com,2025-08-12
 64.65.1.105,,zedzilla,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 23.129.64.138,ExitNode,goodman,443,0,EFGHRSDV,842418,Tor 0.4.8.17,email:tech[]emeraldonion.org url:https://emeraldonion.org proof:uri-rsa abuse:tech[]emeraldonion.org,2025-08-12
 172.241.140.247,,bulbasaur,443,0,FGHRSDV,6243017,Tor 0.4.8.16,&lt;pokefamily AT tutanota dot com&gt;,2025-08-12
@@ -758,6 +757,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.220.101.145,ExitNode,relayon0145,10145,0,EFRSV,2732476,Tor 0.4.8.13,url:relayon.org proof:uri-rsa abuse:abuse[]relayon.org ciissversion:2,2025-08-12
 185.40.4.100,ExitNode,bauruine,14443,0,FGHRSDV,2138893,Tor 0.4.8.16,email:abuse[]tuxli.org pgp:32A1621FC5290921D720940187AC9FC1F2BCCB30 url:https://tuxli.org/ proof:uri-rsa,2025-08-12
 45.134.91.219,,droidtakeover,9001,0,FGHRSDV,6465866,Tor 0.4.8.16,b450m[@]proton[dot]me [server cost me 50 bucks],2025-08-12
+51.195.137.224,,,,,,,,,2025-08-12
 2.100.86.77,,Jezza4PM,9005,0,FHRSDV,917533,Tor 0.4.8.17,0xFFFFFFFF To Be Configured soon by Random Person &lt;nobody AT example dot com&gt;,2025-08-12
 81.56.149.204,,Unnamed,9001,0,FRSDV,324067,Tor 0.4.8.17,,2025-08-12
 51.83.131.171,,homik,9001,0,FGHRSDV,733994,Tor 0.4.8.14,speszonazapka@protonmail.com,2025-08-12
@@ -899,6 +899,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 79.117.113.156,,venusseries,9002,0,FGHRSDV,5636373,Tor 0.4.8.16,theres-no-email-for@bots.com,2025-08-12
 45.14.233.249,,mikrogravitationC,443,0,FGHRSDV,7041696,Tor 0.4.8.16,tor vidister de,2025-08-12
 175.212.206.103,,WIMR,9009,0,FRSV,15519695,Tor 0.4.8.12,your@e-mail,2025-08-12
+109.205.195.141,,,,,,,,,2025-08-12
 89.69.180.20,,dnCTFEX9u4G6JxH,19001,0,FRSDV,4803382,Tor 0.4.8.16,,2025-08-12
 64.65.1.109,,swaelee,443,0,FGHRSDV,1879251,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 172.232.54.164,,ShaderNodeTx,9001,0,FHRSDV,4622908,Tor 0.4.8.14,,2025-08-12
@@ -924,4 +925,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 180.150.226.99,,,,,,,,,2025-08-12
 195.47.238.83,,,,,,,,,2025-08-12
 91.219.23.77,,,,,,,,,2025-08-12
-45.138.
+45.138.16.239,,,,,,,,,2025-08-12
+64.65.1.9
