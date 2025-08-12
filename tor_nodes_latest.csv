@@ -347,6 +347,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 45.33.124.98,,cryonoxnet,9001,0,FHRSDV,23983226,Tor 0.4.8.13,Cryonox.net TOR Admin &lt;toradmin AT cryonox dot net&gt;,2025-08-12
 103.241.51.34,,GermanCraft8,443,0,FGHRSDV,892812,Tor 0.4.8.17,ContactInfo email:knight AT germancraft dot net url:germancraft.net proof:dns-rsa abuse:knight AT,2025-08-12
 104.168.28.159,,Spied7439,9001,0,FGRSDV,2,Tor 0.4.9.2-alpha-dev,4E71835210698C55B7D0D7AC634211669EAF7176 admin &lt;tor dash admin AT san-jose dot linuxprivacy dot com&gt;,2025-08-12
+193.181.209.200,,,,,,,,,2025-08-12
 64.65.62.35,,natanaelcano,443,0,FGHRSDV,1339400,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 213.139.243.22,,LABTOR03,443,0,FGHRSDV,453657,Tor 0.4.8.10,,2025-08-12
 102.211.56.200,ExitNode,obzgs5tbmn4q,9003,0,EFRDV,550460,Tor 0.4.8.17,email:obzgs5tbmn4q[]proton.me url:https://obzgs5tbmn4q.org proof:uri-rsa pgp:C06A55EDC4C2D580D1E1D4C38B4E1E0B1C843DD4,2025-08-12
@@ -902,6 +903,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 79.117.113.156,,venusseries,9002,0,FGHRSDV,5636373,Tor 0.4.8.16,theres-no-email-for@bots.com,2025-08-12
 45.14.233.249,,mikrogravitationC,443,0,FGHRSDV,7041696,Tor 0.4.8.16,tor vidister de,2025-08-12
 175.212.206.103,,WIMR,9009,0,FRSV,15519695,Tor 0.4.8.12,your@e-mail,2025-08-12
+109.205.195.141,,,,,,,,,2025-08-12
 89.69.180.20,,dnCTFEX9u4G6JxH,19001,0,FRSDV,4803382,Tor 0.4.8.16,,2025-08-12
 64.65.1.109,,swaelee,443,0,FGHRSDV,1879251,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-12
 172.232.54.164,,ShaderNodeTx,9001,0,FHRSDV,4622908,Tor 0.4.8.14,,2025-08-12
@@ -958,6 +960,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 172.234.94.89,,HillbillyerRelay02,443,0,FHRSDV,2070075,Tor 0.4.8.10,contact@hillbillyer.net,2025-08-12
 178.17.171.102,ExitNode,Angband,9001,0,EFGRSDV,2,Tor 0.4.8.16,0xD5792C4C8C6F8DE8377949D1F48380B2EC8F9449 Tor Operator &lt;tor@teaparty.net&gt;,2025-08-12
 45.138.16.113,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,712837,Tor 0.4.8.16,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2025-08-12
-185.244.192.175,,,,,,,,,2025-08-12
-118.27.12.40,,,,,,,,,2025-08-12
-109.70.100.71
+185.244.19
