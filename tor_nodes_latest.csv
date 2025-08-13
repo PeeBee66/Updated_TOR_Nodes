@@ -64,6 +64,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 84.239.46.144,ExitNode,ClubPhantom,9001,0,EFGHRSDV,867606,Tor 0.4.8.17,,2025-08-13
 178.175.135.137,,,,,,,,,2025-08-13
 157.180.120.114,,,,,,,,,2025-08-13
+92.244.31.28,,,,,,,,,2025-08-13
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-13
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-13
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-13
@@ -519,6 +520,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 80.220.186.79,,trinity,9001,0,FGRSDV,194466,Tor 0.4.8.17,santa@claws.com,2025-08-13
 159.69.153.203,,sebaro,4587,0,FRSV,388842,Tor 0.4.8.17,,2025-08-13
 64.65.62.33,,juniorh,443,0,FGHRSDV,1339458,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
+89.182.37.156,,,,,,,,,2025-08-13
 192.42.116.15,ExitNode,hviv115,443,0,EFGHRSDV,24058933,Tor 0.4.8.13,Hart voor Internetvrijheid &lt;abuse AT hartvoorinternetvrijheid dot nl&gt; url:hviv.nl proof:uri-rsa ciissversion:2,2025-08-13
 45.66.35.32,ExitNode,kremvox,1984,0,EFGHRSDV,5027452,Tor 0.4.8.12,email:usura[]sabotage.org url:https://sabotage.net proof:uri-rsa abuse:abuse[]sabotage.net twitter:adejoode,2025-08-13
 192.9.129.235,,getrelayedon01,9001,0,FGRSDV,3,Tor 0.4.8.16,0xA178459DC4EC1DA3 Ryan Omasta &lt;abuse dash tor AT ryand dot ca&gt;,2025-08-13
@@ -580,7 +582,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 194.35.184.202,,Unnamed,9001,0,FHRSDV,2872879,Tor 0.4.8.16,Luflosi &lt;tor-relay-1 AT luflosi.de&gt;,2025-08-13
 146.56.99.34,,DontBeLarry,443,0,FHRSDV,885602,Tor 0.4.8.17,Dan &lt; xiaoqic at cs dot princeton dot edu &gt;,2025-08-13
 89.234.157.254,ExitNode,marylou4,19001,0,EFGHRSDV,842447,Tor 0.4.8.17,0x9F29C15D42A8B6F3 Nos oignons - 17WLwtW63FrHeMAEVkALnwhfmizBxGXDW1 email:adminsys[]nos-oignons.net,2025-08-13
-89.182.23.39,,,,,,,,,2025-08-13
 96.9.98.78,,skepta,443,0,FGHRSDV,4096822,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
 83.236.208.78,,flurri,443,0,RSDV,2448325,Tor 0.4.8.16,&lt;u dot rudolf AT web dot de&gt;,2025-08-13
 142.132.212.158,,fluppflupp42,9001,0,FRSV,2931071,Tor 0.4.8.17,5B2B8D57736C5CB2E561FB4613517D5C7BD72B14 Mattias Cockburn &lt;narfnarfnarf@posteo.it&gt;,2025-08-13
@@ -609,7 +610,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 45.148.122.114,,Assange014nl,9001,0,FRSV,712822,Tor 0.4.8.17,BMTY90VKYRQPUJZOTH[@]Safe-mail.net,2025-08-13
 64.255.46.18,,SlimeTrail01,9001,0,FRSV,2,Tor 0.4.8.17,0xCEDABCBC08FBADD18668AF818111C31BC6AF8F91 Operator &lt;operator@slugnet.org&gt;,2025-08-13
 64.65.1.127,,smokepurpp,443,0,FGHRSDV,1879245,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
-38.244.132.241,,,,,,,,,2025-08-13
 96.9.98.75,,rylorodriguez,443,0,FGHRSDV,4096819,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
 185.220.101.211,,ForPrivacyNET,8443,0,FGHRSDV,6534034,Tor 0.4.8.16,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2025-08-13
 65.108.82.81,,wendigo,9101,0,FRSV,453635,Tor 0.4.8.17,Random Person &lt;gbe@v--o pbz (rot13)&gt;,2025-08-13
@@ -707,4 +707,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 15.235.39.148,,yeetbox3,9003,0,FGHRSDV,1774945,Tor 0.4.8.17,contact at yeetbox dot net,2025-08-13
 64.65.62.5,,ombpeezy,443,0,FGHRSDV,1296259,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
 96.9.98.88,,stormyz,443,0,FGHRSDV,4035830,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
-96.9.98.61,,ombpeezy,443,0,FGHRSDV,4
+96.9.98.61,,ombpeezy,443,0,FGHRSDV,4,
