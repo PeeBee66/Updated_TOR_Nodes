@@ -1,5 +1,6 @@
 IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 5.255.98.198,ExitNode,kilroywashere,9001,0,EFRSV,972039,Tor 0.4.8.17,kr597ot2@anonaddy.me,2025-08-13
+80.129.28.142,,,,,,,,,2025-08-13
 148.135.101.13,,Relayiu876fgyu,443,0,FRSV,957626,Tor 0.4.8.17,someoneui57ftubiu@somedomain.domain,2025-08-13
 185.220.101.206,,ForPrivacyNET,8443,0,FGHRSDV,6508881,Tor 0.4.8.16,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2025-08-13
 185.241.208.54,ExitNode,Pierrette,443,0,EFGRSDV,194411,Tor 0.4.8.16,email:denny.obreham[]a-n-o-n-y-m-e.net url:https://a-n-o-n-y-m-e.net proof:uri-rsa donationurl:https://a-n-o-n-y-m-e.net,2025-08-13
@@ -248,6 +249,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 158.101.204.117,,one,443,0,FGHRSDV,388874,Tor 0.4.8.17,dandelionsavanna@memeware.net,2025-08-13
 38.96.254.230,,franklinrelay,443,0,FGHRSDV,712971,Tor 0.4.8.9,none,2025-08-13
 212.132.101.102,,Meinungsfreiheit,9001,0,FGRSDV,4,Tor 0.4.8.10,,2025-08-13
+93.173.42.43,,,,,,,,,2025-08-13
 37.120.185.216,,nikomo,9001,0,FHRSDV,2084729,Tor 0.4.8.10,Bluesky @nikomo.fi,2025-08-13
 107.189.8.65,ExitNode,CarabineroDeChile,443,0,EFHRSDV,522069,Tor 0.4.8.17,torrelayoperator@tutanota.com,2025-08-13
 107.155.81.178,,tried,443,0,FGHRSDV,16477303,Tor 0.4.8.13,,2025-08-13
@@ -285,7 +287,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 141.255.161.167,,avdjusko,443,0,FGRSDV,259222,Tor 0.4.8.17,,2025-08-13
 87.106.216.168,,etinet,443,0,FGHRSDV,1958403,Tor 0.4.8.13,tor@eti-net.de,2025-08-13
 148.251.46.115,,fusion,9001,0,FGHRSDV,583388,Tor 0.4.8.17,email:foxwells[]riseup.net,2025-08-13
-172.104.136.182,,,,,,,,,2025-08-13
 185.100.87.61,,fffb,9001,0,FRDV,12678425,Tor 0.4.8.14,dmho &lt;tor /\ dmho )point( de&gt;,2025-08-13
 94.46.171.245,,sunandfun03,9001,0,FGHRSDV,7722132,Tor 0.4.8.16,,2025-08-13
 190.211.254.76,,apollo112,9001,0,FGHRSDV,518448,Tor 0.4.8.17,,2025-08-13
@@ -577,5 +578,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 89.58.32.67,,fuchur,443,0,FGHRSDV,950403,Tor 0.4.8.17,Mika Schneider &lt;tor AT mikaconor-schneider dot de&gt;,2025-08-13
 192.210.233.239,,TakTor02,443,0,FHR,,,,2025-08-13
 64.176.3.54,,,,,,,,,2025-08-13
-45.14.233.193,,,,,,,,,2025-08-13
-64.65.6
+45.14.233.
