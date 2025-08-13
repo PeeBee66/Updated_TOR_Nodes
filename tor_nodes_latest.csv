@@ -659,6 +659,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 135.181.41.38,,atrip,443,0,FGHRSDV,842476,Tor 0.4.8.17,jumpthrow[at]protonmail[dot]com,2025-08-13
 195.47.238.89,ExitNode,noack7i2,995,0,EFGHRSDV,777677,Tor 0.4.8.17,mikael[]datanerd.se,2025-08-13
 107.152.45.53,,,,,,,,,2025-08-13
+195.52.176.48,,,,,,,,,2025-08-13
 91.208.75.25,,jgsec,9001,0,FGHRSDV,6685264,Tor 0.4.8.16,,2025-08-13
 92.27.11.80,,RealityNews9,9004,0,FRSDV,2,Tor 0.4.8.17,jingojngo@gmail.com,2025-08-13
 185.241.220.83,,,,,,,,,2025-08-13
@@ -741,4 +742,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 93.113.25.211,,privateCoinMonero,443,0,FRSV,259266,Tor 0.4.8.17,,2025-08-13
 165.73.47.36,,SwickTor,9001,0,FRSV,259273,Tor 0.4.8.16,swick_tor@outlook.com,2025-08-13
 5.45.102.93,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,4122033,Tor 0.4.8.16,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2025-08-13
-87.227.211.65,,vanort,9001,0,FHRSDV,1069561,Tor 0.4.8.10,Nicholas Orton &lt;vanort.amplify589@passmail.
+87.227.211.65,,vanort,9001,0,FHRSDV,1069561,Tor 0.4.8.10,Nicholas Ort
