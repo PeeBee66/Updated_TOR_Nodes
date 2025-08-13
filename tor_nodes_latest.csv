@@ -397,6 +397,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 104.167.242.117,ExitNode,KingShadow2,443,0,EFHRSDV,388871,Tor 0.4.8.17,thatgaydragon@protonmail.com,2025-08-13
 96.9.98.77,,sexyyred,443,0,FGHRSDV,4096821,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
 178.254.25.106,,jhsforthtorrelay,9001,0,FHRSDV,2667839,Tor 0.4.8.8,Jonas Hess &lt;tor@jonashess.net&gt;,2025-08-13
+200.150.105.230,,,,,,,,,2025-08-13
 170.64.203.139,ExitNode,Hella,9999,0,BFRSVX,2059231,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-13
 104.131.11.214,,,,,,,,,2025-08-13
 98.232.88.235,,coffeeaddict,9001,0,RSDV,621784,Tor 0.4.8.12,,2025-08-13
@@ -425,6 +426,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 74.123.98.10,,TheBigShow,443,0,FGHRSDV,6148900,Tor 0.4.8.12,,2025-08-13
 31.129.22.65,ExitNode,sacco,9001,0,EFGHRSDV,1242004,Tor 0.4.8.16,email:info[]osservatorionessuno.org url:https://osservatorionessuno.org proof:uri-rsa abuse:exit[]osservatorionessuno.org,2025-08-13
 64.65.1.159,,goldlink,443,0,FGHRSDV,1922442,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
+188.246.204.67,,,,,,,,,2025-08-13
 64.65.62.215,,sirmixalot,443,0,FGHRSDV,1296266,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
 194.15.36.240,,,,,,,,,2025-08-13
 14.192.203.21,,,,,,,,,2025-08-13
@@ -775,5 +777,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 31.11.200.104,,testowo,9998,0,FGHRSDV,842525,Tor 0.4.8.17,testing@testowo.pl,2025-08-13
 100.42.29.173,ExitNode,exit49,9002,0,EFRSDV,1132459,Tor 0.4.8.12,TOR EXIT &lt;SUCK.IT&gt;,2025-08-13
 94.16.147.223,,Oktober,9001,0,FRSDV,3017688,Tor 0.4.8.12,,2025-08-13
-148.252.101.130,,,,,,,,,2025-08-13
-64.65.1.73,,popofficial,443,0,FGHRSDV,18
+148.2
