@@ -215,6 +215,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 160.119.249.240,ExitNode,dani,443,0,EFHRSDV,6326300,Tor 0.4.8.16,,2025-08-13
 195.246.231.14,,sTORMUR,9001,0,FHRSDV,712841,Tor 0.4.8.17,Red Oaive &lt;redwave underscore anythingbutthis at ivegotyour.pw&gt;,2025-08-13
 15.204.220.109,,Art3mis,8443,0,FGHRSDV,18738695,Tor 0.4.8.13,,2025-08-13
+82.165.70.65,,,,,,,,,2025-08-13
 37.63.82.23,,ksh21,9001,0,FGHRSDV,4597248,Tor 0.4.8.13,,2025-08-13
 64.94.85.248,ExitNode,NotYourISP,9001,0,EFGHRSDV,1750271,Tor 0.4.8.10,HexLess &lt;hexless1@outlook.com&gt;,2025-08-13
 74.208.79.7,ExitNode,WindyCity219,443,0,EFGRSDV,3,Tor 0.4.8.10,torservers.domestic736@passmail.net,2025-08-13
@@ -248,6 +249,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 158.101.204.117,,one,443,0,FGHRSDV,388874,Tor 0.4.8.17,dandelionsavanna@memeware.net,2025-08-13
 38.96.254.230,,franklinrelay,443,0,FGHRSDV,712971,Tor 0.4.8.9,none,2025-08-13
 212.132.101.102,,Meinungsfreiheit,9001,0,FGRSDV,4,Tor 0.4.8.10,,2025-08-13
+93.173.42.43,,,,,,,,,2025-08-13
 37.120.185.216,,nikomo,9001,0,FHRSDV,2084729,Tor 0.4.8.10,Bluesky @nikomo.fi,2025-08-13
 107.189.8.65,ExitNode,CarabineroDeChile,443,0,EFHRSDV,522069,Tor 0.4.8.17,torrelayoperator@tutanota.com,2025-08-13
 107.155.81.178,,tried,443,0,FGHRSDV,16477303,Tor 0.4.8.13,,2025-08-13
@@ -285,6 +287,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 141.255.161.167,,avdjusko,443,0,FGRSDV,259222,Tor 0.4.8.17,,2025-08-13
 87.106.216.168,,etinet,443,0,FGHRSDV,1958403,Tor 0.4.8.13,tor@eti-net.de,2025-08-13
 148.251.46.115,,fusion,9001,0,FGHRSDV,583388,Tor 0.4.8.17,email:foxwells[]riseup.net,2025-08-13
+172.104.136.182,,,,,,,,,2025-08-13
 185.100.87.61,,fffb,9001,0,FRDV,12678425,Tor 0.4.8.14,dmho &lt;tor /\ dmho )point( de&gt;,2025-08-13
 94.46.171.245,,sunandfun03,9001,0,FGHRSDV,7722132,Tor 0.4.8.16,,2025-08-13
 190.211.254.76,,apollo112,9001,0,FGHRSDV,518448,Tor 0.4.8.17,,2025-08-13
@@ -607,43 +610,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.62.50,,ludacris1,443,0,FGHRSDV,1339223,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
 77.165.9.32,,Penguins4Life,443,0,FRDV,64863,Tor 0.4.8.17,email wgbhj4x6 AT proton DOT me,2025-08-13
 195.231.39.28,,Runaz4,443,0,FGHRSDV,842458,Tor 0.4.8.17,tor bruzzzla.de,2025-08-13
-212.159.69.155,,FuckYouPutin,443,0,FGHRSDV,7006898,Tor 0.4.8.10,,2025-08-13
-192.42.116.210,ExitNode,NTH13R4,9003,0,EFGHRSDV,518414,Tor 0.4.8.16,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2025-08-13
-84.192.122.191,,,,,,,,,2025-08-13
-166.70.207.2,,,,,,,,,2025-08-13
-45.148.122.114,,Assange014nl,9001,0,FRSV,712822,Tor 0.4.8.17,BMTY90VKYRQPUJZOTH[@]Safe-mail.net,2025-08-13
-64.255.46.18,,SlimeTrail01,9001,0,FRSV,2,Tor 0.4.8.17,0xCEDABCBC08FBADD18668AF818111C31BC6AF8F91 Operator &lt;operator@slugnet.org&gt;,2025-08-13
-64.65.1.127,,smokepurpp,443,0,FGHRSDV,1879245,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
-96.9.98.75,,rylorodriguez,443,0,FGHRSDV,4096819,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
-185.220.101.211,,ForPrivacyNET,8443,0,FGHRSDV,6534034,Tor 0.4.8.16,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2025-08-13
-65.108.82.81,,wendigo,9101,0,FRSV,453635,Tor 0.4.8.17,Random Person &lt;gbe@v--o pbz (rot13)&gt;,2025-08-13
-82.168.62.152,,centurion,8100,0,RSDV,3248459,Tor 0.4.8.16,admin@centurion.link,2025-08-13
-185.104.120.30,ExitNode,BHCARM64OpenBSD3,443,0,EFHRSDV,4636889,Tor 0.4.8.16,email:hello[]brasshorncommunications.uk url:https://brasshorncommunications.uk proof:uri-rsa abuse:abuse[]brasshorncommunicatio,2025-08-13
-51.75.129.204,,ridin,443,0,FGHRSDV,6944442,Tor 0.4.8.16,,2025-08-13
-88.80.26.4,ExitNode,PRQseTORexit3,9001,0,EFGHRSDV,1256537,Tor 0.4.8.16,PRQ Hosting &lt;info AT prq dot se&gt;,2025-08-13
-81.174.250.136,,bik,9001,0,FRSDV,63,Tor 0.4.8.16,your@e-mail,2025-08-13
-152.89.170.201,,FlashGoat,9001,0,FRSV,972197,Tor 0.4.8.17,FlashTor at e.mail DOT de,2025-08-13
-185.129.61.5,ExitNode,dotsrcExit5,443,0,EFGRSDV,3,Tor 0.4.8.17,email:staff[]dotsrc.org url:https://dotsrc.org proof:uri-rsa ciissversion:2,2025-08-13
-71.19.144.65,,venenata,9001,0,FRSV,1231233,Tor 0.4.8.17,email:tor-relays[]mutantmonkey.mx url:mutantmonkey.in proof:uri-rsa ciissversion:2,2025-08-13
-148.251.208.18,,NeoNotOrg,9001,0,FHRSDV,842468,Tor 0.4.8.17,0xDEADBEEF Dead Beef &lt;ops@not.org&gt;,2025-08-13
-64.65.62.225,,earthgang,443,0,FGHRSDV,1296032,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
-213.144.142.26,,fogbank,9001,0,FHRSDV,734446,Tor 0.4.8.16,0xB0C269DD712FC0F8 Tor Operations &lt;tor@darkpackets.net&gt;,2025-08-13
-93.200.6.249,,YukisTorRelay,9001,0,FGHRSDV,3499245,Tor 0.4.8.16,Yuki Ibuki &lt;yukiibuki090 at proton dot me&gt;,2025-08-13
-89.163.211.14,,Nudelholz,443,0,FRSV,307275,Tor 0.4.8.17,0x1E430D7E Spelling Cow &lt;spelling-cow AT proton D0T me&gt;,2025-08-13
-185.184.70.225,,9g4net3,443,0,FGHRSDV,1825990,Tor 0.4.8.10,tor@9g4.net,2025-08-13
-144.76.3.182,,cb1820,9090,0,FHRSDV,1899568,Tor 0.4.8.16,ceebee &lt;@&gt; chunguswire &lt;dot&gt; me,2025-08-13
-51.83.186.85,,prsv,9300,0,FGRSDV,64807,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-13
-104.238.167.111,,stoychev,443,0,FGHRSDV,24220844,Tor 0.4.8.13,&lt;roger fillipo&gt; rodger.fillipo@mail.com,2025-08-13
-185.220.101.54,ExitNode,ForPrivacyNET,10054,0,EFGRSDV,73288,Tor 0.4.9.2-alpha-dev,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2025-08-13
-45.66.35.22,ExitNode,torexitams02,1984,0,EFGHRSDV,19339313,Tor 0.4.8.12,email:usura[]sabotage.org url:https://sabotage.net proof:uri-rsa abuse:abuse[]sabotage.net twitter:adejoode,2025-08-13
-64.65.1.203,,trueno,443,0,FGHRSDV,1929695,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-13
-91.4.208.96,,,,,,,,,2025-08-13
-46.22.7.207,,,,,,,,,2025-08-13
-185.130.45.207,,,,,,,,,2025-08-13
-87.118.122.30,,,,,,,,,2025-08-13
-185.139.228.227,,,,,,,,,2025-08-13
-192.42.116.181,,,,,,,,,2025-08-13
-64.65.62.131,,,,,,,,,2025-08-13
-92.249.197.27,,,,,,,,,2025-08-13
-92.249.143.119,,,,,,,,,2025-08-13
-84.32.248.227,,,,,
+212.159.69.155,,FuckYouPutin,4
