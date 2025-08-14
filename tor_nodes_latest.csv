@@ -64,6 +64,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.162.229.73,,,,,,,,,2025-08-14
 178.175.135.137,,,,,,,,,2025-08-14
 157.180.120.114,,,,,,,,,2025-08-14
+92.244.31.28,,,,,,,,,2025-08-14
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-14
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-14
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-14
@@ -132,7 +133,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.62.121,,blacksherif,443,0,FGHRSDV,1339225,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
 217.163.129.42,,polaris,9001,0,FGHRSDV,11214916,Tor 0.4.8.13,,2025-08-14
 77.90.4.214,,FlowLorian,9001,0,FGHRSDV,2142018,Tor 0.4.8.16,Marc Fischer &lt;marc.fischer@packets-decraser.net&gt;,2025-08-14
-92.117.21.103,,,,,,,,,2025-08-14
 88.198.202.22,,,,,,,,,2025-08-14
 68.253.253.66,,carlos1001,443,0,FGHRSDV,518538,Tor 0.4.8.17,tor-relay-admin@carlos1001.com,2025-08-14
 148.251.85.195,,redvader,9030,0,FGHRSDV,4150841,Tor 0.4.8.16,vader@ciphermail.xyz,2025-08-14
@@ -331,4 +331,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 89.58.41.156,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,648055,Tor 0.4.8.16,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2025-08-14
 94.72.111.123,,charon,443,0,FGHRSDV,2470541,Tor 0.4.8.16,4096R/701269C611CA9526 OpenNetworX Tor Operator &lt;tor(at)onwx.org&gt;,2025-08-14
 148.251.242.166,,AltFrankfurt3,25318,0,FGHRSDV,975908,Tor 0.4.8.14,whathejingles@gmail,2025-08-14
-141.95.52.206,,,,,,,
+141.95.52.206,,,,,,,,
