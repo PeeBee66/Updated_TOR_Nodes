@@ -64,7 +64,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.162.229.73,,,,,,,,,2025-08-14
 178.175.135.137,,,,,,,,,2025-08-14
 157.180.120.114,,,,,,,,,2025-08-14
-92.244.31.28,,,,,,,,,2025-08-14
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-14
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-14
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-14
@@ -331,4 +330,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 217.28.130.73,,Unnamed,9001,0,FRSV,32,Tor 0.4.8.16,Name &lt;tor.scotch810@passmail.net&gt;,2025-08-14
 89.58.41.156,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,648055,Tor 0.4.8.16,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2025-08-14
 94.72.111.123,,charon,443,0,FGHRSDV,2470541,Tor 0.4.8.16,4096R/701269C611CA9526 OpenNetworX Tor Operator &lt;tor(at)onwx.org&gt;,2025-08-14
-148.251.242.166,,AltFrankfurt3,25318,0,FGHRSDV,975908,Tor 0.4.8.14,whathejingles@gmail
+148.251.242.166,,AltFrankfurt3,25318,0,FGHRSDV,975908,Tor 0.4.8.14,whathejingles@gmail,2025-08-14
+141.95.52.206,,,,,,,
