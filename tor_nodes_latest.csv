@@ -65,6 +65,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 84.239.46.144,ExitNode,ClubPhantom,9001,0,EFGHRSDV,867606,Tor 0.4.8.17,,2025-08-14
 178.175.135.137,,,,,,,,,2025-08-14
 157.180.120.114,,,,,,,,,2025-08-14
+92.244.31.28,,,,,,,,,2025-08-14
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-14
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-14
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-14
@@ -475,5 +476,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 178.63.3.190,,,,,,,,,2025-08-14
 185.153.55.240,,,,,,,,,2025-08-14
 194.55.13.207,,,,,,,,,2025-08-14
-157.90.148.231,,,,,,,,,2025-08-14
-77.17
+157.90.
