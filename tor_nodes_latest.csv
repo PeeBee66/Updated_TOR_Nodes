@@ -63,7 +63,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 178.18.246.223,,unnamed314,9001,0,FGHRSDV,6652887,Tor 0.4.8.16,,2025-08-14
 185.195.71.244,ExitNode,DigiGesTor1e2,8443,0,EFGHRSDV,972069,Tor 0.4.8.17,email:abuse-ripe[]digitale-gesellschaft.ch url:https://www.digitale-gesellschaft.ch proof:uri-rsa,2025-08-14
 84.239.46.144,ExitNode,ClubPhantom,9001,0,EFGHRSDV,867606,Tor 0.4.8.17,,2025-08-14
-77.162.229.73,,,,,,,,,2025-08-14
 178.175.135.137,,,,,,,,,2025-08-14
 157.180.120.114,,,,,,,,,2025-08-14
 92.244.31.28,,,,,,,,,2025-08-14
@@ -474,4 +473,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 5.34.182.203,ExitNode,emberhare,443,0,EFGHRSDV,10530472,Tor 0.4.8.16,&lt;statusquo@mailbox.org&gt;,2025-08-14
 85.195.221.187,,Nyarlathotep,23425,0,FGRSDV,129624,Tor 0.4.8.16,zann [at] arklab [dot] dev,2025-08-14
 198.27.80.188,,t7978,443,0,FGHRSDV,18856914,Tor 0.4.8.13,youcansendmeanemail@t.complaints.7978atgmail.com,2025-08-14
-185.49.123.107,,Naville,9010,0,FGHRSDV,4104122,Tor 0.4.8.16,Naville A
+185.49.123.107,,Naville,9010,0,FGHRSDV,4104122,Tor 0.4.8.16,Naville A,2025-08-14
+178.63.3.190,,,,,,,,,
