@@ -15,11 +15,11 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 94.199.214.229,,Zeilentrafo,9001,0,FRSV,5484087,Tor 0.4.8.16,Tor Admin &lt;tor AUF flo-e PUNKT de&gt;,2025-08-14
 178.218.144.18,ExitNode,titamon3,443,0,EFGHRSDV,453694,Tor 0.4.8.17,csheats@tutanota.com,2025-08-14
 91.92.109.126,ExitNode,smasher,443,0,EFGRSDV,64807,Tor 0.4.8.17,gleebear@proton.me,2025-08-14
-2.241.57.82,,,,,,,,,2025-08-14
 45.56.117.78,,TorSuperNodes,443,0,FRV,453615,Tor 0.4.8.17,torsupernodes@protonmail.com,2025-08-14
 171.25.193.37,ExitNode,DFRI68,9051,0,EFGHRSDV,972065,Tor 0.4.8.17,DFRI url:https://dfri.se proof:dns-rsa email:tor[]dfri.se abuse:abuse[]dfri.net ciissversion:2,2025-08-14
 64.65.62.141,,mickeyfactz,443,0,FGHRSDV,1343001,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
 87.236.195.203,,Intrepid,443,0,FGHRSDV,7592425,Tor 0.4.8.16,j.abrahim99_at_proton (dot) me,2025-08-14
+89.247.27.252,,,,,,,,,2025-08-14
 137.220.127.139,,ResidentDwarf,9001,0,FGHRSDV,6637529,Tor 0.4.8.16,ResidentDwarf@mail.com,2025-08-14
 80.82.76.55,,vermiculitus,443,0,FGHRSDV,583231,Tor 0.4.8.17,,2025-08-14
 185.184.69.16,,Zensursula,13141,0,FGHRSDV,1033395,Tor 0.4.8.17,peca-relay [] mailfence dot com,2025-08-14
@@ -136,6 +136,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.62.121,,blacksherif,443,0,FGHRSDV,1339225,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
 217.163.129.42,,polaris,9001,0,FGHRSDV,11214916,Tor 0.4.8.13,,2025-08-14
 77.90.4.214,,FlowLorian,9001,0,FGHRSDV,2142018,Tor 0.4.8.16,Marc Fischer &lt;marc.fischer@packets-decraser.net&gt;,2025-08-14
+92.117.21.103,,,,,,,,,2025-08-14
 88.198.202.22,,,,,,,,,2025-08-14
 68.253.253.66,,carlos1001,443,0,FGHRSDV,518538,Tor 0.4.8.17,tor-relay-admin@carlos1001.com,2025-08-14
 148.251.85.195,,redvader,9030,0,FGHRSDV,4150841,Tor 0.4.8.16,vader@ciphermail.xyz,2025-08-14
@@ -250,6 +251,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 143.198.50.224,,GeekMisfit,8030,0,FRSDV,259263,Tor 0.4.8.17,tor.jnn5q@simplelogin.com,2025-08-14
 158.101.204.117,,one,443,0,FGHRSDV,388874,Tor 0.4.8.17,dandelionsavanna@memeware.net,2025-08-14
 38.96.254.230,,franklinrelay,443,0,FGHRSDV,712971,Tor 0.4.8.9,none,2025-08-14
+89.245.43.20,,,,,,,,,2025-08-14
 212.132.101.102,,Meinungsfreiheit,9001,0,FGRSDV,4,Tor 0.4.8.10,,2025-08-14
 93.173.42.43,,,,,,,,,2025-08-14
 37.120.185.216,,nikomo,9001,0,FHRSDV,2084729,Tor 0.4.8.10,Bluesky @nikomo.fi,2025-08-14
@@ -472,5 +474,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 5.34.182.203,ExitNode,emberhare,443,0,EFGHRSDV,10530472,Tor 0.4.8.16,&lt;statusquo@mailbox.org&gt;,2025-08-14
 85.195.221.187,,Nyarlathotep,23425,0,FGRSDV,129624,Tor 0.4.8.16,zann [at] arklab [dot] dev,2025-08-14
 198.27.80.188,,t7978,443,0,FGHRSDV,18856914,Tor 0.4.8.13,youcansendmeanemail@t.complaints.7978atgmail.com,2025-08-14
-185.49.123.107,,Naville,9010,0,FGHRSDV,4104122,Tor 0.4.8.16,Naville Admin &lt;tor-admin[]naville.com&gt;,2025-08-14
-178.63.3.190,,Vanbo,800
+185.49.123.107,,Naville,9010,0,FGHRSDV,4104122,Tor 0.4.8.16,Naville Adm
