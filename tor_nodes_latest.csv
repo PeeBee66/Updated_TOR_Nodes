@@ -66,6 +66,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.162.229.73,,,,,,,,,2025-08-14
 178.175.135.137,,,,,,,,,2025-08-14
 157.180.120.114,,,,,,,,,2025-08-14
+92.244.31.28,,,,,,,,,2025-08-14
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-14
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-14
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-14
@@ -90,6 +91,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 198.98.57.55,,sgtor1,443,0,FGHRSDV,1591327,Tor 0.4.8.12,sgtor AT protonmail dot com,2025-08-14
 96.9.98.233,,dustylocane,443,0,FGHRSDV,4057252,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
 93.119.15.82,,marsmellow2,9001,0,FHRSDV,3470477,Tor 0.4.8.16,Tor Admin Person &lt;marsmellowtoroperator (at) marsnix (dot) nl&gt;,2025-08-14
+77.90.52.145,,,,,,,,,2025-08-14
 80.94.92.106,ExitNode,prsv,9700,0,EFGRSDV,7682,Tor 0.4.8.17,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-14
 198.72.127.222,,Unnamed,9001,0,FGHRSDV,6473323,Tor 0.4.8.11,,2025-08-14
 64.65.1.4,,shawnjayfieldmob,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
@@ -400,5 +402,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 46.38.236.250,,cvbnet1,9001,0,FGHRSDV,3175543,Tor 0.4.8.16,tor [a] web7seas [dot] com,2025-08-14
 64.65.0.77,,messymarv,443,0,FGHRSDV,1926032,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
 64.65.1.55,,hollywoodyc,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
-90.146.182.29,,eclipse03,9004,0,FGHRSDV,1828856,Tor 0.4.8.16,freiraum_TK AT protonmail DOT ch,2025-08-14
-95.217.164.89,,SkathiAlpha,4
+90.146.182.29,,eclipse03,9004,0,FGHRSDV,1828856,Tor 0.4.8.16,freirau
