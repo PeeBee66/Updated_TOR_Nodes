@@ -65,7 +65,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.162.229.73,,,,,,,,,2025-08-14
 178.175.135.137,,,,,,,,,2025-08-14
 157.180.120.114,,,,,,,,,2025-08-14
-92.244.31.28,,,,,,,,,2025-08-14
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-14
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-14
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-14
@@ -255,7 +254,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 107.189.8.65,ExitNode,CarabineroDeChile,443,0,EFHRSDV,522069,Tor 0.4.8.17,torrelayoperator@tutanota.com,2025-08-14
 107.155.81.178,,tried,443,0,FGHRSDV,16477303,Tor 0.4.8.13,,2025-08-14
 185.236.24.150,,onlyXMRguard,443,0,FRSV,5486488,Tor 0.4.8.16,,2025-08-14
-176.124.32.145,,,,,,,,,2025-08-14
 45.80.158.167,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,518424,Tor 0.4.8.16,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2025-08-14
 213.183.53.249,,jello,1443,0,FHRSDV,12809321,Tor 0.4.8.12,beautifulanny@firemail.de,2025-08-14
 94.23.68.187,,water,9002,0,FGHRSDV,5061627,Tor 0.4.8.16,,2025-08-14
@@ -321,7 +319,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 112.209.32.138,,,,,,,,,2025-08-14
 185.56.150.244,,buzzer111,9001,0,FGHRSDV,11225032,Tor 0.4.8.10,ralph.ratz@recons.de,2025-08-14
 64.38.158.65,,IDidNotEdiTheConfig,9001,0,FRSDV,4417413,Tor 0.4.8.16,Steve &lt;dartme18+tor@gmail.com&gt;,2025-08-14
-146.19.143.119,,,,,,,,,2025-08-14
 185.193.52.180,ExitNode,taxburrow,9001,0,EFGHRSDV,4539665,Tor 0.4.8.16,,2025-08-14
 185.100.87.166,ExitNode,Truck,19815,0,EFGHRSDV,777914,Tor 0.4.8.17,,2025-08-14
 45.32.4.66,,Prolixium,9001,0,FGHRSDV,8683305,Tor 0.4.8.16,Mark Kamichoff &lt;prox AT prolixium dot com&gt;,2025-08-14
@@ -369,4 +366,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.220.101.10,ExitNode,artikel10ber40,9004,0,EFRV,107888,Tor 0.4.8.17,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2025-08-14
 85.66.52.173,,,,,,,,,2025-08-14
 96.20.102.87,,TorRelayCAN,9001,0,FHRSDV,2962961,Tor 0.4.8.12,Tor Relay CAN &lt;torrelaycan AT tutanota dot com&gt;,2025-08-14
-151.80.32.172,,sumsumbrrr,9001,0,FGHRSDV,4219365,Tor 0.4.8.16,middlenode-su
+151.80.32.172,,sumsumbrrr,9001,0,FGHRSDV,4219365,Tor 0.4.8.16,middlenode-su,2025-08-14
+178.162.221.111,,,,,,,,,2025-08-14
+109.70.100.69,,,,,,,,,2025-08-14
+194.87.252.214,,,,,,
