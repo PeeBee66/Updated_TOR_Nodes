@@ -95,6 +95,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 80.94.92.106,ExitNode,prsv,9700,0,EFGRSDV,7682,Tor 0.4.8.17,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-14
 198.72.127.222,,Unnamed,9001,0,FGHRSDV,6473323,Tor 0.4.8.11,,2025-08-14
 64.65.1.4,,shawnjayfieldmob,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
+185.125.169.92,,,,,,,,,2025-08-14
 157.245.84.78,,tito37wer,443,0,FGHRSDV,11062828,Tor 0.4.8.13,izella.blackford@freemailonline.us,2025-08-14
 5.252.178.224,,pinnacle,9001,0,FGHRSDV,4014023,Tor 0.4.8.16,,2025-08-14
 31.44.238.25,ExitNode,VIKINGVPN1,443,0,EFGHRSDV,1054847,Tor 0.4.8.13,email:info[]as35100.net url:https://tor.as35100.net uplinkbw:10000 btc:bc1qkehltr4f9jwe5n7tza49ekedxxr7pzq764hvr5,2025-08-14
@@ -149,7 +150,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.247.184.33,ExitNode,pingg,9001,0,EFGRSDV,64805,Tor 0.4.8.16,email:info[]osservatorionessuno.org url:https://osservatorionessuno.org proof:uri-rsa abuse:exit[]osservatorionessuno.org,2025-08-14
 3.38.87.87,,gjaninfo,31499,0,FRSV,3326409,Tor 0.4.8.16,email:admin@gjan.info pgp:FECDEB1EF59273C0C5A3670CF9EF0D6BED5CB330,2025-08-14
 62.113.214.74,,karotte,9001,0,FGHRSDV,975854,Tor 0.4.8.17,0xFFFFFFFF &lt;tormaster AT kkb-clan dot de&gt;,2025-08-14
-89.247.27.72,,,,,,,,,2025-08-14
 15.204.141.95,,sonrisas,8080,0,FGHRSDV,16484476,Tor 0.4.8.13,,2025-08-14
 109.70.100.6,ExitNode,eierschwammerl,9005,0,EFRSV,4028445,Tor 0.4.8.16,Foundation for Applied Privacy email:tor[]appliedprivacy.net twitter:applied_privacy donationurl:https://applied-privacy.net/do,2025-08-14
 178.85.175.222,,extraMBs,443,0,FHRSDV,13654537,Tor 0.4.8.11,relaycontactproton@proton.me,2025-08-14
@@ -474,4 +474,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 5.34.182.203,ExitNode,emberhare,443,0,EFGHRSDV,10530472,Tor 0.4.8.16,&lt;statusquo@mailbox.org&gt;,2025-08-14
 85.195.221.187,,Nyarlathotep,23425,0,FGRSDV,129624,Tor 0.4.8.16,zann [at] arklab [dot] dev,2025-08-14
 198.27.80.188,,t7978,443,0,FGHRSDV,18856914,Tor 0.4.8.13,youcansendmeanemail@t.complaints.7978atgmail.com,2025-08-14
-185.49.123.107,,Naville,9010,0,FGHRSDV,4104122,Tor 0.4.8.16,Naville Adm
+185.49.123.107,,Naville,9010,0,FGHRSDV,4104122,Tor 0.4.8.16,Naville A
