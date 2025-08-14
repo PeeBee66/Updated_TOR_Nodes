@@ -5,8 +5,8 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.220.101.206,,ForPrivacyNET,8443,0,FGHRSDV,6508881,Tor 0.4.8.16,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2025-08-14
 185.241.208.54,ExitNode,Pierrette,443,0,EFGRSDV,194411,Tor 0.4.8.16,email:denny.obreham[]a-n-o-n-y-m-e.net url:https://a-n-o-n-y-m-e.net proof:uri-rsa donationurl:https://a-n-o-n-y-m-e.net,2025-08-14
 198.98.57.151,ExitNode,syndicateguys,9001,0,EFGHRSDV,17705486,Tor 0.4.8.13,info@syndicateguys.com,2025-08-14
+185.14.92.129,,,,,,,,,2025-08-14
 65.108.136.190,,arbitraryKenzie3,995,0,FGHRSDV,1137621,Tor 0.4.9.2-alpha-dev,mail:tor[]arbitrary.ch url:https://arbitrary.ch proof:uri-rsa abuse:tor[]arbitrary.ch ciissversion:2,2025-08-14
-51.210.103.252,,,,,,,,,2025-08-14
 64.65.62.9,,jadakiss,443,0,FGHRSDV,1292482,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
 212.79.125.15,,zgato,443,0,FGHRSDV,907273,Tor 0.4.8.16,tor@zgato.ru,2025-08-14
 85.130.157.152,,archandnixbtw,9001,0,FGRSDV,271798,Tor 0.4.8.12,Arbel Arad &lt;arbel@spacetime.technology&gt;,2025-08-14
@@ -65,6 +65,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.162.229.73,,,,,,,,,2025-08-14
 178.175.135.137,,,,,,,,,2025-08-14
 157.180.120.114,,,,,,,,,2025-08-14
+92.244.31.28,,,,,,,,,2025-08-14
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-14
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-14
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-14
@@ -307,6 +308,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 5.250.179.163,,magic848relay,9001,0,FRDV,15428634,Tor 0.4.8.13,tor-operator@mufff.in,2025-08-14
 198.251.88.18,ExitNode,Polyphemus16,8080,0,EFRDV,1537415,Tor 0.4.8.17,Brandon Kuschel &lt;tor AT NOSPAM brandonkuschel dot com&gt;,2025-08-14
 64.23.171.123,,guardthenode1,443,0,FGHRSDV,453617,Tor 0.4.8.17,guardthenode@proton.me,2025-08-14
+114.198.1.118,,,,,,,,,2025-08-14
 37.46.208.144,,,,,,,,,2025-08-14
 91.208.206.56,,MetalRelay1,443,0,FGHRSDV,648029,Tor 0.4.8.17,tor (@) metalhearf (.) fr,2025-08-14
 149.56.44.47,ExitNode,torjockel,443,0,EFGHRSDV,907269,Tor 0.4.8.17,torjockel@mailbox.org,2025-08-14
@@ -367,6 +369,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 85.66.52.173,,,,,,,,,2025-08-14
 96.20.102.87,,TorRelayCAN,9001,0,FHRSDV,2962961,Tor 0.4.8.12,Tor Relay CAN &lt;torrelaycan AT tutanota dot com&gt;,2025-08-14
 151.80.32.172,,sumsumbrrr,9001,0,FGHRSDV,4219365,Tor 0.4.8.16,middlenode-su,2025-08-14
-178.162.221.111,,,,,,,,,2025-08-14
-109.70.100.69,,,,,,,,,2025-08-14
-194.87.252.214,,,,,,
+178.162.221.111,,,,,,,,,
