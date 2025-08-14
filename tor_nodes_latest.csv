@@ -94,7 +94,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 80.94.92.106,ExitNode,prsv,9700,0,EFGRSDV,7682,Tor 0.4.8.17,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-14
 198.72.127.222,,Unnamed,9001,0,FGHRSDV,6473323,Tor 0.4.8.11,,2025-08-14
 64.65.1.4,,shawnjayfieldmob,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-14
-185.125.169.92,,,,,,,,,2025-08-14
 157.245.84.78,,tito37wer,443,0,FGHRSDV,11062828,Tor 0.4.8.13,izella.blackford@freemailonline.us,2025-08-14
 5.252.178.224,,pinnacle,9001,0,FGHRSDV,4014023,Tor 0.4.8.16,,2025-08-14
 31.44.238.25,ExitNode,VIKINGVPN1,443,0,EFGHRSDV,1054847,Tor 0.4.8.13,email:info[]as35100.net url:https://tor.as35100.net uplinkbw:10000 btc:bc1qkehltr4f9jwe5n7tza49ekedxxr7pzq764hvr5,2025-08-14
@@ -474,4 +473,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 85.195.221.187,,Nyarlathotep,23425,0,FGRSDV,129624,Tor 0.4.8.16,zann [at] arklab [dot] dev,2025-08-14
 198.27.80.188,,t7978,443,0,FGHRSDV,18856914,Tor 0.4.8.13,youcansendmeanemail@t.complaints.7978atgmail.com,2025-08-14
 185.49.123.107,,Naville,9010,0,FGHRSDV,4104122,Tor 0.4.8.16,Naville A,2025-08-14
-178.63.3.190,,,,,,,,,
+178.63.3.190,,,,,,,,,2025-08-14
+185.153.55.240,,,,,,,,,
