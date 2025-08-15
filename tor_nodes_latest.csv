@@ -123,7 +123,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.0.15,,xavierwulf,443,0,FGHRSDV,1926045,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
 78.159.131.166,,GOGRelayJapan4,4443,0,FRDV,459187,Tor 0.4.8.17,abuse.gog.tor AT proton.me,2025-08-15
 82.118.21.80,,hyelix,9001,0,FRSV,3798093,Tor 0.4.8.16,greggr at posteo dot net,2025-08-15
-167.235.74.7,,,,,,,,,2025-08-15
 193.30.120.139,ExitNode,isodiapher,9001,0,FGHRSDVX,2167236,Tor 0.4.8.12,isodiapher /at/ movim / eu (xmpp),2025-08-15
 144.24.17.44,,stubbornoxenoracle,4444,0,FGHRSDV,648064,Tor 0.4.8.17,stubbornoxen(at)thewellinspired(dot)com [tor-relay.co],2025-08-15
 185.220.101.12,ExitNode,artikel10ber48,9004,0,EFRV,107888,Tor 0.4.8.17,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2025-08-15
@@ -217,4 +216,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 51.15.37.100,,hsjeufh24h6,9001,0,FGRSDV,64847,Tor 0.4.8.9,,2025-08-15
 160.119.249.240,ExitNode,dani,443,0,EFHRSDV,6326300,Tor 0.4.8.16,,2025-08-15
 195.246.231.14,,sTORMUR,9001,0,FHRSDV,712841,Tor 0.4.8.17,Red Oaive &lt;redwave underscore anythingbutthis at ivegotyour.pw&gt;,2025-08-15
-15.204.220.109,,Art3mis,8443,0,FGHRSDV,18738695,Tor
+15.204.220.109,,Art3mis,8443,0,FGHRSDV,18738695,Tor,,2025-08-15
+82.165.70.65,,,,,,,
