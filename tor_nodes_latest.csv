@@ -66,7 +66,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.162.229.73,,,,,,,,,2025-08-15
 178.175.135.137,,,,,,,,,2025-08-15
 157.180.120.114,,,,,,,,,2025-08-15
-92.244.31.28,,,,,,,,,2025-08-15
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-15
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-15
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-15
@@ -110,4 +109,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 142.44.247.102,,yatr,443,0,FGHRSDV,5763640,Tor 0.4.8.16,xmr:4AuKENt7AKt2HYuDTESThbFBbvREVhFM93nvLkpUd9gwQVu7giktvFEKAurXoUXwgx4Bz5Ric3BHbiGUfxFD49NXV4d6JBy,2025-08-15
 148.75.213.197,,BuffaloAve,9001,0,RSDV,3333631,Tor 0.4.8.16,,2025-08-15
 23.137.254.244,ExitNode,BigLoop,9001,0,EFGRSDV,129609,Tor 0.4.8.17,abuse@doggett.tech,2025-08-15
-77.85.159.177,,f
+77.85.159.177,,f,,,,,,,2025-08-15
+188.165.136.21
