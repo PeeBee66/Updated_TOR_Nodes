@@ -98,6 +98,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 157.245.84.78,,tito37wer,443,0,FGHRSDV,11062828,Tor 0.4.8.13,izella.blackford@freemailonline.us,2025-08-15
 5.252.178.224,,pinnacle,9001,0,FGHRSDV,4014023,Tor 0.4.8.16,,2025-08-15
 31.44.238.25,ExitNode,VIKINGVPN1,443,0,EFGHRSDV,1054847,Tor 0.4.8.13,email:info[]as35100.net url:https://tor.as35100.net uplinkbw:10000 btc:bc1qkehltr4f9jwe5n7tza49ekedxxr7pzq764hvr5,2025-08-15
+92.224.217.204,,,,,,,,,2025-08-15
 24.128.81.156,,differNoiseHarmony,443,0,FGRSDV,259668,Tor 0.4.8.12,differNoiseHarmony-relay@pm.me,2025-08-15
 213.183.63.46,,torbgemmax,443,0,FGHRSDV,453640,Tor 0.4.8.17,url:https://emmaxamme.github.io/ proof:uri-rsa ciissversion:2 email:emmaxamme@proton.me,2025-08-15
 91.54.127.106,,TKL,9050,0,FGHRSDV,453648,Tor 0.4.8.12,info@timo-klein-web.de,2025-08-15
@@ -109,5 +110,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 142.44.247.102,,yatr,443,0,FGHRSDV,5763640,Tor 0.4.8.16,xmr:4AuKENt7AKt2HYuDTESThbFBbvREVhFM93nvLkpUd9gwQVu7giktvFEKAurXoUXwgx4Bz5Ric3BHbiGUfxFD49NXV4d6JBy,2025-08-15
 148.75.213.197,,BuffaloAve,9001,0,RSDV,3333631,Tor 0.4.8.16,,2025-08-15
 23.137.254.244,ExitNode,BigLoop,9001,0,EFGRSDV,129609,Tor 0.4.8.17,abuse@doggett.tech,2025-08-15
-77.85.159.177,,f,,,,,,,2025-08-15
-188.165.136.211,
+77.85.159.177,,f
