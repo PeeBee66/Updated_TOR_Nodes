@@ -57,7 +57,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 79.49.185.135,,,,,,,,,2025-08-15
 94.16.113.89,,torbogen3,9003,0,FGHRSDV,2563327,Tor 0.4.8.17,email:rotor[]schmeling-ol.de url:https://www.schmeling-ol.de proof:uri-rsa abuse:rotor[]schmeling-ol.de,2025-08-15
 37.77.56.246,,OysterReef,36004,0,FGHRSDV,777640,Tor 0.4.8.17,,2025-08-15
-91.37.197.25,,Unnamed,9001,0,FGHRSDV,1621521,Tor 0.4.8.17,,2025-08-15
 162.255.84.47,,idunno,443,0,FGHRSDV,2127659,Tor 0.4.8.12,bob &lt;thereddale69 AT outlook.com&gt;,2025-08-15
 88.99.2.111,,4mnesia,9001,0,FGHRSDV,2700109,Tor 0.4.8.16,email: ammirelay[at]boatmail.cc confmgmt:ansible ciisversion:2,2025-08-15
 178.18.246.223,,unnamed314,9001,0,FGHRSDV,6652887,Tor 0.4.8.16,,2025-08-15
@@ -110,4 +109,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 142.44.247.102,,yatr,443,0,FGHRSDV,5763640,Tor 0.4.8.16,xmr:4AuKENt7AKt2HYuDTESThbFBbvREVhFM93nvLkpUd9gwQVu7giktvFEKAurXoUXwgx4Bz5Ric3BHbiGUfxFD49NXV4d6JBy,2025-08-15
 148.75.213.197,,BuffaloAve,9001,0,RSDV,3333631,Tor 0.4.8.16,,2025-08-15
 23.137.254.244,ExitNode,BigLoop,9001,0,EFGRSDV,129609,Tor 0.4.8.17,abuse@doggett.tech,2025-08-15
-77.85.159.177,,f
+77.85.159.177,,f,,,,,,,2025-08-15
+188.165.136.211,,,,,,,,,2025-08-15
+194.126.173.158,
