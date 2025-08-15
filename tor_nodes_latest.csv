@@ -235,7 +235,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 74.91.21.2,,rotorstator,443,0,FGHRSDV,4705328,Tor 0.4.8.16,PGK &lt;tor at the-goober.net&gt;,2025-08-15
 172.93.101.181,,zero,443,0,FGHRSDV,4537037,Tor 0.4.8.16,,2025-08-15
 64.65.1.32,,lilsnupesdreams,443,0,FGHRSDV,1879257,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-87.162.119.252,,,,,,,,,2025-08-15
 64.65.62.78,,ctangana,443,0,FGHRSDV,1292601,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
 64.65.1.57,,ballgreezy,443,0,FGHRSDV,1879247,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
 96.9.98.37,,fmbdz,443,0,FGHRSDV,4057271,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
@@ -256,4 +255,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.236.24.150,,onlyXMRguard,443,0,FRSV,5486488,Tor 0.4.8.16,,2025-08-15
 45.80.158.167,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,518424,Tor 0.4.8.16,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2025-08-15
 213.183.53.249,,jello,1443,0,FHRSDV,12809321,Tor 0.4.8.12,beautifulanny@firemail.de,2025-08-15
-94.23.68.187,,water,9002,0,FGHRSDV,50616
+94.23.68.187,,water,9002,0,FGHRSDV,50616,,,2025-08-15
+38.242.203.107,,,,,,
