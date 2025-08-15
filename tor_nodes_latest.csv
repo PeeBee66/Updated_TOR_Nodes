@@ -179,42 +179,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 51.77.210.24,,TurtleRelay,9001,0,FGHRSDV,29696596,Tor 0.4.8.12,TheStaticTurtle &lt;tor-relay@thestaticturtle.fr&gt;,2025-08-15
 70.34.253.46,,Maciak22,9001,0,FRV,712877,Tor 0.4.8.17,&lt;3BBD E80E C34C 8CB2 3538 E1AE B7F7 21EE 51E9 0A12&gt; tor AT papajakwatykaniak DOT pro,2025-08-15
 54.37.80.38,,prsv,9700,0,FGRSDV,259217,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-15
-102.216.253.33,,prsv,9100,0,FRSDV,3,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-15
-64.65.1.8,,diamondatl,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-70.32.195.33,,middlingmanchild,9001,0,FGHRSDV,3574004,Tor 0.4.8.12,kazirt@protonmail.com,2025-08-15
-77.90.4.135,,LatenzLasse,9001,0,FGHRSDV,2055620,Tor 0.4.8.16,Marc Fischer &lt;marc.fischer@packets-decraser.net&gt;,2025-08-15
-149.56.126.142,,Unnamed,9009,0,FGHRSDV,23911278,Tor 0.4.8.12,,2025-08-15
-96.9.98.145,,ianndior,443,0,FGHRSDV,4057266,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-185.143.102.82,,BlackBoxCH,443,0,FGHRSDV,781172,Tor 0.4.8.13,bach.laminar-6e@icloud.com,2025-08-15
-54.36.99.69,,Unnamed,9001,0,FGHRSDV,842457,Tor 0.4.8.13,,2025-08-15
-96.9.98.30,,dnaqueens,443,0,FGHRSDV,4075226,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-142.11.201.90,,captain,443,0,FRSV,19461678,Tor 0.4.8.13,,2025-08-15
-45.33.55.238,,torarch,9001,0,FRSV,20750421,Tor 0.4.8.13,torarch AT proton dot me,2025-08-15
-5.255.99.5,ExitNode,Unnamed,9001,0,EFGHRSDV,28429864,Tor 0.4.8.12,someonesneighbor1@protonmail.com,2025-08-15
-139.99.197.44,,ariel,9001,0,FHRSDV,11062856,Tor 0.4.8.16,Ariel &lt;arielnode AT tor DOT email&gt;,2025-08-15
-162.43.36.145,,IAMWATCHINGYOUTYO2,9001,0,FRSV,4093221,Tor 0.4.8.11,justinbx(at)skiff(dot)com [tor-relay.co],2025-08-15
-217.12.221.110,,zwewwlUA2,9001,0,FGRSDV,324032,Tor 0.4.8.16,&lt;trly1 AT proton dot me&gt;,2025-08-15
-45.88.104.74,,,,,,,,,2025-08-15
-23.166.40.111,,zgato,443,0,FGHRSDV,907278,Tor 0.4.8.17,tor@zgato.ru,2025-08-15
-94.143.137.213,,versed03,443,0,FGHRSDV,777966,Tor 0.4.8.12,sere04versed@icloud.com,2025-08-15
-91.219.237.160,,thestudio,9001,0,FGRSDV,129616,Tor 0.4.8.17,,2025-08-15
-213.163.196.82,,tormiddleRvaultcc,443,0,FRSDV,2,Tor 0.4.8.17,tor@staff.rvault.cc,2025-08-15
-5.45.98.188,,tembi,443,0,FGHRSDV,23317259,Tor 0.4.8.13,torrelay_tembi AT manchester DOT gr,2025-08-15
-104.244.79.25,,paranoidtorrelay,9001,0,FGHRSDV,1926032,Tor 0.4.8.13,damienjamesh at yahoo dot com,2025-08-15
-5.255.109.214,,marvinmartian,9001,0,FGRSDV,194409,Tor 0.4.8.17,beat me marvinfreehudred@proton.me,2025-08-15
-54.218.255.56,,wintrymix,9001,0,FRSV,6134630,Tor 0.4.8.12,tor@laserscorpion.com,2025-08-15
-51.38.112.15,,prsv,9300,0,FGRSDV,64806,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-15
-77.73.67.39,,ShinyTsunami,1443,0,FGHRSDV,2815542,Tor 0.4.8.12,vilghelmvans@firemail.de,2025-08-15
-57.128.220.107,ExitNode,Ulcerate,443,0,EFGHRSDV,1976530,Tor 0.4.8.16,email:hello[]stareintodeathandbestill.com url:https://stareintodeathandbestill.com proof:uri-rsa pgp:017E3455066AC3812E8EF19BCC,2025-08-15
-92.60.36.222,,flowjob07,9001,0,FGHRSDV,12254429,Tor 0.4.8.14,flowjob(at)protonmail(dot)ch,2025-08-15
-62.141.36.150,,colon,9001,0,FGHRSDV,20004885,Tor 0.4.8.10,0xFFFFFFFF &lt;tormaster AT kkb-clan dot de&gt;,2025-08-15
-100.42.29.167,ExitNode,exit43,9002,0,EFHRSDV,1132133,Tor 0.4.8.12,TOR EXIT &lt;SUCK.IT&gt;,2025-08-15
-119.28.139.55,ExitNode,hellotor,9001,0,BFRSVX,6876148,Tor 0.4.8.13,,2025-08-15
-64.65.1.164,,azizigibson,443,0,FGHRSDV,1922442,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-146.59.126.232,ExitNode,Ulcerate,443,0,EFGHRSDV,1940839,Tor 0.4.8.16,email:hello[]stareintodeathandbestill.com url:https://stareintodeathandbestill.com proof:uri-rsa pgp:017E3455066AC3812E8EF19BCC,2025-08-15
-142.204.140.244,,Protocol73,9001,0,FRSV,1814914,Tor 0.4.8.12,Protocol73@bellevuelabs.net,2025-08-15
-51.15.37.100,,hsjeufh24h6,9001,0,FGRSDV,64847,Tor 0.4.8.9,,2025-08-15
-160.119.249.240,ExitNode,dani,443,0,EFHRSDV,6326300,Tor 0.4.8.16,,2025-08-15
-195.246.231.14,,sTORMUR,9001,0,FHRSDV,712841,Tor 0.4.8.17,Red Oaive &lt;redwave underscore anythingbutthis at ivegotyour.pw&gt;,2025-08-15
-15.204.220.109,,Art3mis,8443,0,FGHRSDV,18738695,Tor,,2025-08-15
-82.165.70.65,,,,,,,
+102.216.253.33,,prsv,9100,0,FRSDV,3,Tor 0.4.8.16,email:admin[]prsv.ch url:https://prsv.ch/ proo
