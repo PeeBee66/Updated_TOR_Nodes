@@ -6,7 +6,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 198.98.57.151,ExitNode,syndicateguys,9001,0,EFGHRSDV,17705486,Tor 0.4.8.13,info@syndicateguys.com,2025-08-15
 185.14.92.129,,,,,,,,,2025-08-15
 65.108.136.190,,arbitraryKenzie3,995,0,FGHRSDV,1137621,Tor 0.4.9.2-alpha-dev,mail:tor[]arbitrary.ch url:https://arbitrary.ch proof:uri-rsa abuse:tor[]arbitrary.ch ciissversion:2,2025-08-15
-51.210.103.252,,,,,,,,,2025-08-15
 64.65.62.9,,jadakiss,443,0,FGHRSDV,1292482,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
 212.79.125.15,,zgato,443,0,FGHRSDV,907273,Tor 0.4.8.16,tor@zgato.ru,2025-08-15
 85.130.157.152,,archandnixbtw,9001,0,FGRSDV,271798,Tor 0.4.8.12,Arbel Arad &lt;arbel@spacetime.technology&gt;,2025-08-15
@@ -110,4 +109,5 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 142.44.247.102,,yatr,443,0,FGHRSDV,5763640,Tor 0.4.8.16,xmr:4AuKENt7AKt2HYuDTESThbFBbvREVhFM93nvLkpUd9gwQVu7giktvFEKAurXoUXwgx4Bz5Ric3BHbiGUfxFD49NXV4d6JBy,2025-08-15
 148.75.213.197,,BuffaloAve,9001,0,RSDV,3333631,Tor 0.4.8.16,,2025-08-15
 23.137.254.244,ExitNode,BigLoop,9001,0,EFGRSDV,129609,Tor 0.4.8.17,abuse@doggett.tech,2025-08-15
-77.85.159.177,,f
+77.85.159.177,,f,,,,,,,2025-08-15
+188.165.136.211,
