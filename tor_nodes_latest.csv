@@ -67,6 +67,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.162.229.73,,,,,,,,,2025-08-15
 178.175.135.137,,,,,,,,,2025-08-15
 157.180.120.114,,,,,,,,,2025-08-15
+92.244.31.28,,,,,,,,,2025-08-15
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2156522,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-15
 65.20.101.86,,hijodeltrabajo,8443,0,FRSV,726064,Tor 0.4.8.17,tor AT ppdlv DOT net,2025-08-15
 194.26.141.208,,Unnamed,46211,0,RSDV,766818,Tor 0.4.8.17,,2025-08-15
@@ -144,5 +145,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.235.41.70,,zgato,9001,0,FHRSDV,907259,Tor 0.4.8.17,tor@zgato.ru,2025-08-15
 136.48.20.200,,torque,9001,0,FRDV,64805,Tor 0.4.8.17,,2025-08-15
 45.154.28.70,,ATP,9001,0,FGHRSDV,23886221,Tor 0.4.8.10,KORVERIK korv@anderstorpsfestivalen.se,2025-08-15
-185.247.184.33,ExitNode,pingg,9001,0,,,,,2025-08-15
-3.38.87.87,,,,,,,
+185.247.184.33,ExitNode,pingg,9001,0,
