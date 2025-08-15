@@ -110,39 +110,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 142.44.247.102,,yatr,443,0,FGHRSDV,5763640,Tor 0.4.8.16,xmr:4AuKENt7AKt2HYuDTESThbFBbvREVhFM93nvLkpUd9gwQVu7giktvFEKAurXoUXwgx4Bz5Ric3BHbiGUfxFD49NXV4d6JBy,2025-08-15
 148.75.213.197,,BuffaloAve,9001,0,RSDV,3333631,Tor 0.4.8.16,,2025-08-15
 23.137.254.244,ExitNode,BigLoop,9001,0,EFGRSDV,129609,Tor 0.4.8.17,abuse@doggett.tech,2025-08-15
-77.85.159.177,,freedomAnarchy,9001,0,RSDV,907290,Tor 0.4.8.17,idea_portly0e@icloud.com,2025-08-15
-188.165.136.211,,Patr,8082,0,FGHRSDV,15163337,Tor 0.4.8.13,,2025-08-15
-194.126.173.158,,Unnamed,24752,0,FGHRSDV,17337626,Tor 0.4.8.13,,2025-08-15
-198.245.55.220,,PommespanzerCA2,443,0,FGHRSDV,972061,Tor 0.4.8.17,relay // at // pommespanzer // dot // cc,2025-08-15
-31.14.238.36,,Figaro,443,0,FGRSDV,3,Tor 0.4.8.16,,2025-08-15
-45.84.107.54,ExitNode,r0cket14i6,5349,0,EFRSV,777616,Tor 0.4.8.17,email:tor[]r0cket.net url:https://tor.r0cket.net/ proof:uri-rsa abuse:abuse[]r0cket.net hoster:r0cket.cloud,2025-08-15
-209.209.10.208,,fluffypancakes001ca,443,0,FGRSDV,129608,Tor 0.4.8.16,email:admin[]fluffypancakes.dev url:fluffypancakes.dev proof:uri-rsa ciissversion:2,2025-08-15
-128.199.131.168,,SaruTorIruka,9001,0,FRSV,972053,Tor 0.4.8.17,DannyAAM DannyAAMtw email:tor[]saru.moe pgp:EA96C1332576439D68CEB0AA60E0EA4B53ACB4E9 url:tor.saru.moe,2025-08-15
-64.65.1.20,,statquo,443,0,FGHRSDV,1904406,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-85.119.82.142,,,,,,,,,2025-08-15
-167.179.71.27,,dylerturden,9001,0,FGHRSDV,3820031,Tor 0.4.8.16,,2025-08-15
-64.65.0.15,,xavierwulf,443,0,FGHRSDV,1926045,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-78.159.131.166,,GOGRelayJapan4,4443,0,FRDV,459187,Tor 0.4.8.17,abuse.gog.tor AT proton.me,2025-08-15
-82.118.21.80,,hyelix,9001,0,FRSV,3798093,Tor 0.4.8.16,greggr at posteo dot net,2025-08-15
-193.30.120.139,ExitNode,isodiapher,9001,0,FGHRSDVX,2167236,Tor 0.4.8.12,isodiapher /at/ movim / eu (xmpp),2025-08-15
-144.24.17.44,,stubbornoxenoracle,4444,0,FGHRSDV,648064,Tor 0.4.8.17,stubbornoxen(at)thewellinspired(dot)com [tor-relay.co],2025-08-15
-185.220.101.12,ExitNode,artikel10ber48,9004,0,EFRV,107888,Tor 0.4.8.17,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2025-08-15
-31.42.186.165,,EpicTor3,9001,0,FGHRSDV,5587217,Tor 0.4.8.16,,2025-08-15
-104.3.165.248,,9072997home,443,0,FGHRSDV,840025,Tor 0.4.8.17,Jon Penn &lt;Jon@9072997.com&gt;,2025-08-15
-51.38.133.93,,Pierogi,9001,0,FGHRSDV,972050,Tor 0.4.8.17,tacoenjoyer@tutamail.com,2025-08-15
-64.65.1.121,,tonyshhnow,443,0,FGHRSDV,1904465,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-147.182.202.137,ExitNode,Joda,9999,0,BFRSVX,2149365,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2025-08-15
-138.201.121.103,,Calypsos,8080,0,FGHRSDV,3103203,Tor 0.4.8.16,Calypso Strausive mail: calypsos96@protonmail.com,2025-08-15
-64.65.62.121,,blacksherif,443,0,FGHRSDV,1339225,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-217.163.129.42,,polaris,9001,0,FGHRSDV,11214916,Tor 0.4.8.13,,2025-08-15
-77.90.4.214,,FlowLorian,9001,0,FGHRSDV,2142018,Tor 0.4.8.16,Marc Fischer &lt;marc.fischer@packets-decraser.net&gt;,2025-08-15
-88.198.202.22,,,,,,,,,2025-08-15
-68.253.253.66,,carlos1001,443,0,FGHRSDV,518538,Tor 0.4.8.17,tor-relay-admin@carlos1001.com,2025-08-15
-148.251.85.195,,redvader,9030,0,FGHRSDV,4150841,Tor 0.4.8.16,vader@ciphermail.xyz,2025-08-15
-82.66.10.17,,bigbrother23470,19001,0,FGHRSDV,716422,Tor 0.4.8.10,Random Person &lt;tor AT conti dash usa dot net&gt;,2025-08-15
-128.31.0.61,,csailmitnoexit,443,0,FGHRSDV,6149000,Tor 0.4.8.16,Jon Proulx &lt;jon AT csail dot mit dot edu&gt; GPG Key ID 0x37C6224D225BCD7D Finger Print: 4829 BCDD 4A4D,2025-08-15
-64.65.1.62,,iceberg,443,0,FGHRSDV,1879242,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-15
-64.235.41.70,,zgato,9001,0,FHRSDV,907259,Tor 0.4.8.17,tor@zgato.ru,2025-08-15
-136.48.20.200,,torque,9001,0,FRDV,64805,Tor 0.4.8.17,,2025-08-15
-45.154.28.70,,ATP,9001,0,FGHRSDV,23886221,Tor 0.4.8.10,KORVERIK korv@anderstorpsfestivalen.se,2025-08-15
-185.247.184.33,ExitNode,pingg,9001,0,
+77.85.159.177,,f
