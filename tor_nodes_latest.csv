@@ -64,6 +64,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 178.18.246.223,,unnamed314,9001,0,FGHRSDV,6652887,Tor 0.4.8.16,,2025-08-15
 185.195.71.244,ExitNode,DigiGesTor1e2,8443,0,EFGHRSDV,972069,Tor 0.4.8.17,email:abuse-ripe[]digitale-gesellschaft.ch url:https://www.digitale-gesellschaft.ch proof:uri-rsa,2025-08-15
 84.239.46.144,ExitNode,ClubPhantom,9001,0,EFGHRSDV,867606,Tor 0.4.8.17,,2025-08-15
+77.162.229.73,,,,,,,,,2025-08-15
 178.175.135.137,,,,,,,,,2025-08-15
 157.180.120.114,,,,,,,,,2025-08-15
 92.244.31.28,,,,,,,,,2025-08-15
@@ -144,4 +145,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.235.41.70,,zgato,9001,0,FHRSDV,907259,Tor 0.4.8.17,tor@zgato.ru,2025-08-15
 136.48.20.200,,torque,9001,0,FRDV,64805,Tor 0.4.8.17,,2025-08-15
 45.154.28.70,,ATP,9001,0,FGHRSDV,23886221,Tor 0.4.8.10,KORVERIK korv@anderstorpsfestivalen.se,2025-08-15
-185.247.184.33,ExitNode,pingg,9001,0,EFGRSDV,64805,Tor 0.4.8.16,email:i
+185.247.184.33,ExitNode,pingg,9001,0,
