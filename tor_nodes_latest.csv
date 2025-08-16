@@ -39,7 +39,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 85.214.200.184,,kol3v14,443,0,FGHRSDV,12485174,Tor 0.4.8.10,kol3v14@protonmail.com,2025-08-16
 176.9.91.26,,MyMiddleRelay,9005,0,FGHRSDV,1296494,Tor 0.4.8.16,nagubandi456@gmail.com,2025-08-16
 107.189.29.184,ExitNode,JACKofNINES,443,0,EFGHRSDV,324023,Tor 0.4.8.17,Stan &lt;favorite0ne@proton.me&gt;,2025-08-16
-91.59.239.208,,,,,,,,,2025-08-16
 185.82.202.3,,hotthing,9001,0,FHRSDV,518432,Tor 0.4.8.17,,2025-08-16
 185.244.129.163,,Sinker,9001,0,FGHRSDV,1353823,Tor 0.4.8.7,sink1999@gmail.com,2025-08-16
 108.181.132.245,,wideBus,443,0,FGHRSDV,1685438,Tor 0.4.8.7,,2025-08-16
@@ -75,6 +74,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 51.89.81.247,,Anguiped,443,0,FGHRSDV,5043689,Tor 0.4.8.16,celtiq.sec A.T. proton D.O.T. me,2025-08-16
 213.165.90.169,,Assange007uk2,9201,0,FGHRSDV,1368249,Tor 0.4.8.16,BMTY90VKYRQPUJZOTH[@]Safe-mail.net,2025-08-16
 82.149.227.236,,17aeea434ea95807c5d,9004,0,FGHRSDV,5831922,Tor 0.4.8.16,tor@funil.de,2025-08-16
+103.17.153.210,,,,,,,,,2025-08-16
 71.19.157.127,,OrphanOrOften,993,0,FHRSDV,1810805,Tor 0.4.8.17,tor-admin OF explicate DOTORG,2025-08-16
 109.107.35.154,,Unnamed,443,0,FRSDV,62,Tor 0.4.8.17,4096R/5C06D153 John Leach &lt;john@johnleach.co.uk&gt;,2025-08-16
 64.65.1.98,,tumtumdfw,443,0,FGHRSDV,1879243,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-16
@@ -113,4 +113,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 77.85.159.177,,f,,,,,,,2025-08-16
 188.165.136.211,,,,,,,,,2025-08-16
 194.126.173.158,,,,,,,,,2025-08-16
-19
+1
