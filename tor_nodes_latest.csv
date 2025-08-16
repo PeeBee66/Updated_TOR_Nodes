@@ -62,7 +62,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 178.18.246.223,,unnamed314,9001,0,FGHRSDV,6652887,Tor 0.4.8.16,,2025-08-16
 185.195.71.244,ExitNode,DigiGesTor1e2,8443,0,EFGHRSDV,972069,Tor 0.4.8.17,email:abuse-ripe[]digitale-gesellschaft.ch url:https://www.digitale-gesellschaft.ch proof:uri-rsa,2025-08-16
 84.239.46.144,ExitNode,ClubPhantom,9001,0,EFGHRSDV,867606,Tor 0.4.8.17,,2025-08-16
-77.162.229.73,,,,,,,,,2025-08-16
 178.175.135.137,,,,,,,,,2025-08-16
 157.180.120.114,,,,,,,,,2025-08-16
 92.244.31.28,,,,,,,,,2025-08-16
@@ -93,6 +92,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 80.94.92.106,ExitNode,prsv,9700,0,EFGRSDV,7682,Tor 0.4.8.17,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2025-08-16
 198.72.127.222,,Unnamed,9001,0,FGHRSDV,6473323,Tor 0.4.8.11,,2025-08-16
 64.65.1.4,,shawnjayfieldmob,443,0,FGHRSDV,1904407,Tor 0.4.8.16,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2025-08-16
+185.125.169.92,,,,,,,,,2025-08-16
 91.37.198.227,,,,,,,,,2025-08-16
 157.245.84.78,,tito37wer,443,0,FGHRSDV,11062828,Tor 0.4.8.13,izella.blackford@freemailonline.us,2025-08-16
 5.252.178.224,,pinnacle,9001,0,FGHRSDV,4014023,Tor 0.4.8.16,,2025-08-16
@@ -113,4 +113,4 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 188.165.136.211,,,,,,,,,2025-08-16
 194.126.173.158,,,,,,,,,2025-08-16
 198.245.55.220,,,,,,,,,2025-08-16
-31
+3
