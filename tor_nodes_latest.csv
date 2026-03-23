@@ -173,7 +173,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.62.209,,zackdelarocha,443,0,FGHRSDV,2556027,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 176.126.86.160,,Unnamed,23966,0,FHRSDV,777625,Tor 0.4.8.21,immibis wherever you find him,2026-03-23
 5.196.131.170,,Unnamed,9001,0,FGHRSDV,18212537,Tor 0.4.8.17,,2026-03-23
-84.67.163.163,,orbiter,9001,0,FRDV,0,Tor 0.4.9.5,,2026-03-23
 185.141.216.220,,zgato,9001,0,FGRSDV,1201,Tor 0.4.9.5,tor@zgato.ru,2026-03-23
 146.59.44.132,,tORu,443,0,FGHRSDV,1195290,Tor 0.4.9.5,dmitri_@bk.ru,2026-03-23
 5.230.38.235,,kryptov,443,0,FGRSDV,219603,Tor 0.4.9.5,,2026-03-23
@@ -238,7 +237,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 82.160.220.21,,speedtest10ge,9001,0,FGHRSDV,4537159,Tor 0.4.8.16,NOC Optronet &lt;noc AT optronet dot pl&gt;,2026-03-23
 23.141.188.91,,loopnetnode01,443,0,FGHRSDV,3196879,Tor 0.4.9.5,io@nicolo.ovh,2026-03-23
 64.65.1.45,,peeweerose,443,0,FGHRSDV,662410,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
-85.215.160.111,,supercomputer,44441,0,FRDV,1,Tor 0.4.9.5,Mafra01(AT)Safe-mail(DOT)net,2026-03-23
 185.220.101.45,ExitNode,ForPrivacyNET,10045,0,EFGRSDV,17,Tor 0.5.0.0-alpha-dev,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2026-03-23
 83.96.252.102,,batsoupxyz,8443,0,FHRSDV,3438098,Tor 0.4.8.22,clothfield at protonmail dot com,2026-03-23
 90.94.172.154,,jhirfgjikjm,19001,0,FRDV,4,Tor 0.4.9.5,&lt;asgsb09 AT gmail DOT com&gt;,2026-03-23
@@ -413,6 +411,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 192.42.116.132,,NTH132R1,443,0,FGHRSDV,842102,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
 171.25.193.77,ExitNode,DFRI29,444,0,EFGHRSDV,777615,Tor 0.4.9.5,DFRI url:https://dfri.se proof:dns-rsa email:tor[]dfri.se abuse:abuse[]dfri.net ciissversion:2,2026-03-23
 64.65.62.153,,lilflip,443,0,FGHRSDV,2556088,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
+82.165.129.49,,,,,,,,,2026-03-23
 64.65.1.73,,popofficial,443,0,FGHRSDV,714679,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 84.149.15.54,,TuxFury,9001,0,FGHRSDV,518477,Tor 0.4.9.5,Random Person &lt;info AT fortong dot de&gt;,2026-03-23
 140.78.100.14,,INSRelay14at8443,8443,0,FHRSDV,4611668,Tor 0.4.8.0-alpha-dev,This Relay is operated as part of a research effort to measure how Onion Services are being used.,2026-03-23
@@ -530,7 +529,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.220.101.189,ExitNode,relayon0189,10189,0,EFRSV,5616195,Tor 0.4.8.21,url:relayon.org proof:uri-rsa abuse:abuse[]relayon.org ciissversion:2,2026-03-23
 143.110.247.195,ExitNode,Athena,9999,0,BFRSVX,2009059,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2026-03-23
 8.219.91.199,,Unnamed,9001,0,RSDV,5335235,Tor 0.4.8.21,,2026-03-23
-159.69.183.152,,schilli,9001,0,FRDV,1433763,Tor 0.4.8.21,,2026-03-23
 185.100.87.192,ExitNode,artikel10buc12,9006,0,EFRSV,900015,Tor 0.4.9.5,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2026-03-23
 193.189.100.206,ExitNode,TORKeFFORG39,445,0,EFGRSDV,259215,Tor 0.4.8.17,KeFF NOC &lt;noc AT keff dot org&gt;,2026-03-23
 45.141.215.56,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,982812,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
@@ -1124,7 +1122,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.169.242.123,,DRCTor,443,0,FHRSDV,22485804,Tor 0.4.8.9,administrator(at)deathredcloud(dot)com,2026-03-23
 64.65.2.234,,ayrastarr,443,0,FGHRSDV,3157445,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 96.9.98.244,,armanicaesar,443,0,FGHRSDV,2523664,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
-92.5.53.103,,KhanKrumCloud,9001,0,FRDV,555206,Tor 0.4.9.5,khankrum359@gmail.com,2026-03-23
 161.97.142.15,,enceladus03,9001,0,FGRSDV,3,Tor 0.4.8.11,email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2,2026-03-23
 64.65.62.38,,lilpeep,443,0,FGHRSDV,2570503,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 85.215.132.113,,nexusprime,8081,0,FRSV,3,Tor 0.4.9.5,0xFFFFFFFF &lt;info@andyproject.de&gt;,2026-03-23
@@ -1213,6 +1210,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 107.172.3.5,,RackTor,443,0,FRSV,1684955,Tor 0.4.9.5,,2026-03-23
 107.189.12.136,,PoohBear18645,26485,0,FRDV,3786335,Tor 0.4.8.22,0x18FFB9259E11C3BC69ABC8857E65272B32D3C971 f19.4jbg3@gmail.com,2026-03-23
 5.254.118.189,,Pizzahut,9001,0,FGHRSDV,2995289,Tor 0.4.9.5,,2026-03-23
+185.220.101.98,ExitNode,,,,,,,,2026-03-23
 217.116.95.26,,CopperOri,9001,0,FHRSDV,324088,Tor 0.4.9.5,Copper Ori &lt;temp.entourage136@passinbox.com&gt;,2026-03-23
 23.129.64.145,ExitNode,mudge,443,0,EFGHRSDV,2008851,Tor 0.4.9.5,email:tech[]emeraldonion.org url:https://emeraldonion.org proof:uri-rsa abuse:tech[]emeraldonion.org,2026-03-23
 146.0.40.193,,mylocXdus01,9001,0,FHRSDV,1101696,Tor 0.4.9.5,,2026-03-23
@@ -1259,10 +1257,11 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 172.93.49.243,ExitNode,Serenity060874e7,9001,0,BFRSVX,5684454,Tor 0.4.8.16,"Jackie Kai &lt;enki1,protonmail,com&gt;",2026-03-23
 185.36.142.175,,KosherTempler,9001,0,FRSV,9446385,Tor 0.4.8.21,,2026-03-23
 193.23.244.244,,dannenberg,443,80,AFHRSDV,1155753,Tor 0.4.9.5,Andreas Lehner,2026-03-23
+74.91.224.178,,,,,,,,,2026-03-23
 85.119.82.142,ExitNode,atacama,443,0,FRVX,133931,Tor 0.4.9.5,sysadmin &lt;postmaster at siblings dotnet&gt;,2026-03-23
-94.130.70.185,,Bluejaybrd,4443,0,FGHRSDV,5547787,Tor 0.4.8.21,Patrice Mail: patricerice@protonmail.com,2026-03-23
 128.199.131.168,,SaruTorIruka,9001,0,FRV,10719548,Tor 0.4.8.21,DannyAAM DannyAAMtw email:tor[]saru.moe pgp:EA96C1332576439D68CEB0AA60E0EA4B53ACB4E9 url:tor.saru.moe,2026-03-23
 77.223.215.105,,Droidik,4093,0,FRSV,16114520,Tor 0.4.8.12,Droidik289@gmail.com,2026-03-23
+94.130.70.185,,Bluejaybrd,4443,0,FGHRSDV,5547787,Tor 0.4.8.21,Patrice Mail: patricerice@protonmail.com,2026-03-23
 51.15.18.123,,carnitas,9001,0,FGHRSDV,2293234,Tor 0.4.8.22,martinhafe@proton.me,2026-03-23
 45.33.33.69,,Sentinel9325,9001,0,FHRSDV,2073644,Tor 0.4.8.22,gdhong2896@proton.me,2026-03-23
 88.99.94.231,,portugesecartel,4443,0,FGHRSDV,7005609,Tor 0.4.8.21,playboicarti at chunguswire.me B.T.C: 1Nvp7LbJ8JsNRu4qPedZbimWR6q2MFAUwf,2026-03-23
@@ -1284,6 +1283,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 174.88.242.117,,JumboJimbo,9001,0,FGHRSDV,2844065,Tor 0.4.8.20,&lt;sglavan AT uwaterloo DOT ca&gt;,2026-03-23
 170.39.49.50,,relay9pfsca2,9001,0,FRSDV,591769,Tor 0.4.9.5,9pfs (base64 aEBoYWNrY2x1Yi5hcHA= to contact),2026-03-23
 93.123.12.112,ExitNode,Basher,443,0,EFGHRSDV,2757760,Tor 0.4.9.5,gleebear@proton.me,2026-03-23
+23.134.88.59,,,,,,,,,2026-03-23
 64.65.62.101,,keakdasneak,443,0,FGHRSDV,2570490,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 87.106.69.171,,PommespanzerGB3,443,0,FRDV,806436,Tor 0.4.9.5,relay // at // pommespanzer // dot // cc,2026-03-23
 194.26.192.77,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,453774,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
@@ -1398,6 +1398,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.241.208.234,ExitNode,Quetzalcoatl,9100,0,EFGRSDV,194421,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
 104.168.35.199,,NoPrivacy,443,0,FRSDV,1416687,Tor 0.4.9.5,xiaoqic at cs dot princeton dot edu url:cxqn.info proof:uri-rsa ciissversion:2,2026-03-23
 78.117.198.100,,Unnamed,9001,0,FRDV,213553,Tor 0.4.9.5,doesntmatter.yeahyeah@whatever.fr,2026-03-23
+109.123.255.121,,,,,,,,,2026-03-23
 139.162.162.238,,myNiceRelay,1443,0,FRSDV,194419,Tor 0.4.8.21,alice@example.com,2026-03-23
 172.105.166.172,,mypersonalnickname,443,0,FRSV,712831,Tor 0.4.8.13,someone@gmail.com,2026-03-23
 178.128.118.97,,sgpure,443,0,FHRSDV,3078094,Tor 0.4.9.5,c99058397@gmail.com,2026-03-23
@@ -1461,7 +1462,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 87.212.171.40,,BlauwBlauw,9001,0,FGHRSDV,1037011,Tor 0.4.9.5,Random Person nobody@tor.org,2026-03-23
 145.239.65.196,,BLAZIKEN,19628,0,FHRSDV,1191627,Tor 0.4.9.5,XXX,2026-03-23
 185.119.117.229,,ekanu,443,0,FGHRSDV,324017,Tor 0.4.9.5,,2026-03-23
-5.250.189.24,,OhMyTor,9696,0,FRDV,3,Tor 0.4.9.5,DXC-0,2026-03-23
 199.184.215.11,,ATLurmyivna,9090,0,FGHRSDV,3301250,Tor 0.4.9.5,EdK &lt;ed@atl.org&gt;,2026-03-23
 80.142.177.221,,walden,9001,0,FHRSDV,1918962,Tor 0.4.8.21,no@email.available,2026-03-23
 66.70.211.20,,SchulteTorRelay001,9001,0,FGHRSDV,3035085,Tor 0.4.8.21,tor-relay-001@schulte.org,2026-03-23
@@ -1476,6 +1476,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.62.160,,guiltysimpson,443,0,FGHRSDV,2574150,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 96.9.98.168,,ygtut,443,0,FGHRSDV,2484019,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 192.42.116.164,,NTH164R1,443,0,FRDV,259212,Tor 0.4.8.22,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
+70.34.253.46,,,,,,,,,2026-03-23
 151.56.237.24,,ivybridge,9001,0,FGHRSDV,1101830,Tor 0.4.9.5,briskly-spud-blah@duck.com,2026-03-23
 96.9.98.157,,pharcyde,443,0,FGHRSDV,2484026,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 47.254.178.2,,Unnamed,9001,0,RSDV,5684417,Tor 0.4.8.21,,2026-03-23
@@ -1495,6 +1496,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 131.188.40.189,,gabelmoo,443,80,ARSDV,842483,Tor 0.4.9.5,4096R/261C5FBE77285F88FB0C343266C8C2D7C5AA446D Sebastian Hahn &lt;tor@sebastianhahn.net&gt;,2026-03-23
 98.31.36.230,,Weaponized2,10001,0,RDV,194666,Tor 0.4.9.5,danvondra (at) protonmail (dot) com,2026-03-23
 64.65.2.92,,billwoods,443,0,FGHRSDV,3165909,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
+185.220.101.104,ExitNode,,,,,,,,2026-03-23
 140.122.185.230,,BeTheStar,9001,0,FHRSDV,722471,Tor 0.4.9.5,be.the.star.tor.operator@gmail.com,2026-03-23
 81.7.18.96,,iwoasnet,6133,0,FHRSDV,1159318,Tor 0.4.8.18,0xFFFFFFFF torben &lt;torben AT barfuss-software.de&gt;,2026-03-23
 95.153.31.202,,salentrakain,9001,0,FGHRSDV,1296064,Tor 0.4.8.21,,2026-03-23
@@ -1753,6 +1755,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 160.222.157.121,,HPLovecraftCat,9001,0,FHRSDV,1231343,Tor 0.4.8.21,,2026-03-23
 64.65.63.120,,sabapivot,443,0,FGHRSDV,2577674,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 82.64.35.220,,beegate,1971,0,FHRSDV,649239,Tor 0.4.9.5,patrick@psylles.fr,2026-03-23
+158.180.25.76,,,,,,,,,2026-03-23
 96.9.98.97,,currensy,443,0,FGHRSDV,2484024,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 192.42.116.19,,NTH19R1,443,0,FGRSDV,259208,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
 96.9.98.149,,souljaboy,443,0,FGHRSDV,2484019,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -2064,6 +2067,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 51.91.99.88,,prsv,9300,0,FGHRSDV,583237,Tor 0.4.9.5,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2026-03-23
 185.170.114.25,ExitNode,artikel5ev10b,444,0,EFGHRSDV,10195378,Tor 0.4.8.21,email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2,2026-03-23
 192.42.116.76,,NTH76R1,443,0,FGHRSDV,860677,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
+194.164.203.65,,,,,,,,,2026-03-23
 130.61.37.185,,GermanCraft19,443,0,FHRSDV,2258099,Tor 0.4.9.5,ContactInfo email:knight AT germancraft dot net url:germancraft.net proof:dns-rsa abuse:knight AT,2026-03-23
 57.131.21.173,,ForDemocracy8,9001,0,FGRSDV,64805,Tor 0.4.9.5,tor+Democracy8@luki.zip,2026-03-23
 185.231.101.141,,zgato,443,0,FGHRSDV,3218774,Tor 0.4.9.5,tor@zgato.ru,2026-03-23
@@ -2098,6 +2102,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 96.9.98.100,,ugk,443,0,FGHRSDV,2498426,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 185.66.109.249,,SwissNETLNOB,443,0,FGHRSDV,712853,Tor 0.4.9.5,&lt;TGSwissNET abcATabc gmail abc[]abc com&gt;,2026-03-23
 45.83.141.65,,JanFugeMK,443,0,FRDV,723860,Tor 0.4.9.5,janfuger dot surfacing777 AT passmail dot net,2026-03-23
+5.161.215.230,,,,,,,,,2026-03-23
 45.137.69.9,,dreary,9001,0,FGHRSDV,1342812,Tor 0.4.9.5,44FBABA6BC5EF8D1B69AB9C054994A18C5974B99 Satanist &lt;admin AT 2cb dot network&gt;,2026-03-23
 107.173.167.241,,masstor5,9001,0,RSV,1483245,Tor 0.4.9.5,wxw at safe-mail dot net,2026-03-23
 192.111.150.126,,wobble2,443,0,FRSV,40857254,Tor 0.4.8.12,Reverse Address &lt;com DOT danielengel AT tor&gt;,2026-03-23
@@ -2155,6 +2160,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 90.146.182.215,,eclipse03,9004,0,FGHRSDV,1227714,Tor 0.4.9.5,freiraum_TK AT protonmail DOT ch,2026-03-23
 185.220.101.194,,ForPrivacyNET,8443,0,FGHRSDV,9667972,Tor 0.4.8.21,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2026-03-23
 155.248.193.178,,squadsal,443,0,FRDV,70,Tor 0.4.8.12,squadsal@proton.me,2026-03-23
+185.26.156.186,,,,,,,,,2026-03-23
 68.183.163.215,,bwanzie,9001,0,FHRSDV,705619,Tor 0.4.9.5,,2026-03-23
 152.32.236.131,,yJcdbddbucvxgja,9002,0,FRSDV,194480,Tor 0.4.8.17,martini4@outlook.com,2026-03-23
 94.158.246.117,,4718,9002,0,FGHRSDV,2743272,Tor 0.4.9.5,email:tor [] middelstaedt dot com url:https://middelstaedt.com proof:uri-rsa abuse:abuse [] middelstaedt,2026-03-23
@@ -2241,8 +2247,9 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 87.106.110.34,,angharad,443,0,FGHRSDV,718388,Tor 0.4.9.5,tor@wurzelmann.at,2026-03-23
 45.84.107.128,ExitNode,r0cket11i6,5349,0,EFRSV,687736,Tor 0.4.9.5,email:tor[]r0cket.net url:https://tor.r0cket.net/ proof:uri-rsa abuse:abuse[]r0cket.net hoster:r0cket.cloud,2026-03-23
 149.28.137.0,,ToroneDelta02,9002,0,FRSV,2282507,Tor 0.4.9.5,,2026-03-23
-202.61.224.170,,BourbonKid,9001,0,FGRSDV,194483,Tor 0.4.8.12,Random Person &lt;nobody AT example dot com&gt;,2026-03-23
+198.98.51.249,ExitNode,,,,,,,,2026-03-23
 179.108.106.120,,styx,29745,0,FRSDV,324009,Tor 0.4.9.5,rework_district716@simplelogin.com,2026-03-23
+202.61.224.170,,BourbonKid,9001,0,FGRSDV,194483,Tor 0.4.8.12,Random Person &lt;nobody AT example dot com&gt;,2026-03-23
 151.242.242.49,,cloloke,9002,0,FHRSDV,673205,Tor 0.4.9.5,olokerunningtor aT protonmail dot com,2026-03-23
 91.219.60.67,,TheDirtyGauntlet,9001,0,FGHRSDV,1436586,Tor 0.4.9.5,,2026-03-23
 64.65.0.23,,idontknowjeffery,443,0,FGHRSDV,2566836,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -2310,6 +2317,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 38.190.150.6,,xkoloke,9004,0,FGHRSDV,648049,Tor 0.4.9.5,olokerunningtor aT protonmail dot com,2026-03-23
 220.135.36.173,ExitNode,jerryrelay,9001,0,EFGHRSDV,2311324,Tor 0.4.9.5,url:linjerry.com proof:dns-rsa ciissversion:2,2026-03-23
 46.23.108.191,,zgato,443,0,FHRSDV,3139401,Tor 0.4.9.5,tor@zgato.ru,2026-03-23
+185.220.101.109,ExitNode,,,,,,,,2026-03-23
 49.12.176.165,,stefanbentenrelay01,9001,0,FGHRSDV,3247367,Tor 0.4.9.5,Stefan Benten &lt;support@stefan-benten.de&gt;,2026-03-23
 212.227.224.245,,BensVPSRelayDE,443,0,FGHRSDV,7916659,Tor 0.4.8.21,bensraspirelayde@gmail.com,2026-03-23
 80.208.58.219,,rubberbootes,9001,0,FGHRSDV,1843234,Tor 0.4.8.10,mail@domain.com,2026-03-23
@@ -2728,6 +2736,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 89.188.113.27,,offelio,5555,0,FRDV,5196012,Tor 0.4.9.3-alpha-dev,offelio@protonmail.com,2026-03-23
 165.227.41.75,ExitNode,Vanir,9999,0,BFRSVX,2001970,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2026-03-23
 64.65.62.236,,tylerthecreator,443,0,FGHRSDV,2556088,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
+185.220.101.106,ExitNode,,,,,,,,2026-03-23
 54.36.99.69,,Unnamed,9001,0,FGHRSDV,718256,Tor 0.4.9.5,,2026-03-23
 49.12.93.240,,skewed,443,0,FRSDV,2,Tor 0.4.9.5,0x98507F25 Tiago Peixoto &lt;tiago@skewed.de&gt;,2026-03-23
 5.254.118.192,,PapaJohns,9001,0,FGHRSDV,2991709,Tor 0.4.9.5,,2026-03-23
@@ -2948,7 +2957,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 155.248.194.143,,iDidEditTheConfig,26666,0,FRDV,22536859,Tor 0.4.8.7,Random Person,2026-03-23
 173.176.44.101,,nestor00patof,1337,0,RSDV,453482,Tor 0.4.9.5,nestor00patof@ptaff.ca,2026-03-23
 185.220.101.54,ExitNode,ForPrivacyNET,10054,0,EFGRSDV,3,Tor 0.5.0.0-alpha-dev,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2026-03-23
-54.38.241.237,,ttfnodeC,9001,0,FRDV,2408939,Tor 0.4.9.5,ttf &lt;ttf@casson.eu&gt;,2026-03-23
 64.65.0.66,,thejacka,443,0,FGHRSDV,2566842,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 76.234.124.250,,YAOITNLAUS1,9001,0,FGHRSDV,396002,Tor 0.4.9.5,torabuse@sl.blahaj.li btc:bc1q54684f3apu2rce000dmuc4pk59fv4wy0j5z9w5,2026-03-23
 128.140.58.110,,odin,444,0,FGHRSDV,10492164,Tor 0.4.8.21,odins-eye.copper995@passmail.com,2026-03-23
@@ -2963,6 +2971,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 5.255.101.24,,Lily,9001,0,FGHRSDV,388824,Tor 0.4.9.5,,2026-03-23
 64.65.62.93,,jonesmann,443,0,FGHRSDV,2556086,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 102.209.117.179,,Snuifhond,9001,0,FHRSDV,2159739,Tor 0.4.9.5,R. holtor . holtor @ onionmail . org,2026-03-23
+185.220.101.108,ExitNode,,,,,,,,2026-03-23
 194.190.152.170,,CommonService,443,0,FGHRSDV,2822870,Tor 0.4.9.5,commonservice@ro.ru,2026-03-23
 107.189.7.144,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,835627,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
 96.9.98.128,,macmiller,443,0,FGHRSDV,2484022,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -2972,6 +2981,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 103.147.153.97,,as215296torrelay05,9001,0,FGHRSDV,2055626,Tor 0.4.8.21,,2026-03-23
 64.65.1.195,,jellyroll,443,0,FGHRSDV,666009,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 193.108.53.121,,magic848relay,9001,0,FGHRSDV,9604911,Tor 0.4.8.21,tor-operator@mufff.in,2026-03-23
+185.220.101.103,ExitNode,,,,,,,,2026-03-23
 65.109.13.155,,fuckthefreeworld,9991,0,RSV,3185499,Tor 0.4.8.17,0xBEA9C52D89793BEAC4DD6F5C39F6B42D2BA16497 Rene Schumann &lt;rene.schumann 4 gmx dot net&gt;,2026-03-23
 95.216.22.22,,LandShrimp,8443,0,FGHRSDV,5245276,Tor 0.4.8.21,landshrimp at kluismail dot com,2026-03-23
 95.216.33.30,,Ukko,443,0,FHRSDV,2109661,Tor 0.4.9.5,Alexander Faeroey &lt;ahf@0x90.dk&gt; (0x61A208E16E7CB435),2026-03-23
@@ -3027,7 +3037,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 79.253.2.252,,AnkleSmith,4444,0,FRDV,2,Tor 0.4.9.5,AnkleSmith &lt;axra4gh3k@mozmail.com&gt;,2026-03-23
 152.53.121.113,,HighenergyRelay,8443,0,FGRSDV,2,Tor 0.4.8.21,freya@highenergymagic.net,2026-03-23
 96.126.98.146,ExitNode,GilFrog,9999,0,BFRSVX,1951245,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2026-03-23
-140.238.220.10,,magic848relay,9001,0,FRV,9643043,Tor 0.4.8.21,tor-operator@mufff.in,2026-03-23
 23.191.200.12,ExitNode,UnredactedEFF,443,0,EFRSDV,65405,Tor 0.4.9.5,email:admin[@]unredacted.org url:unredacted.org proof:uri-rsa ciissversion:2,2026-03-23
 193.189.100.196,ExitNode,TORKeFFORG29,445,0,EFGHRSDV,716643,Tor 0.4.8.17,KeFF NOC &lt;noc AT keff dot org&gt;,2026-03-23
 64.65.0.134,,herbo,443,0,FGHRSDV,2588435,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -3320,13 +3329,11 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 23.137.253.39,,queercat,8080,0,FGHRSDV,1001514,Tor 0.4.9.5,94f8607f@queer.cat,2026-03-23
 83.7.188.100,,ploloke,9007,0,FRDV,64863,Tor 0.4.9.5,olokerunningtor at protonmail dot com,2026-03-23
 62.113.200.81,,Zensursula,8443,0,FGHRSDV,842447,Tor 0.4.9.5,peca-relay [] mailfence dot com,2026-03-23
-65.109.50.251,ExitNode,SiroxNetworkExit,9001,0,EFRDV,4,Tor 0.4.9.5,Adrian Pfeffer &lt;tor@sirox.net&gt;,2026-03-23
 188.68.36.28,ExitNode,artikel5ev42,443,0,EFGHRSDV,388846,Tor 0.4.8.21,email:abuse[]artikel5ev.de url:https://artikel5ev.de proof:uri-rsa ciissversion:2,2026-03-23
 140.235.237.13,,dhitechnical,9001,0,FGHRSDV,1944196,Tor 0.4.8.14,paulmataruso@dhitechnical.com,2026-03-23
 185.220.101.16,ExitNode,artikel10ber64,9004,0,EFRSV,709214,Tor 0.4.9.5,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2026-03-23
 92.27.11.80,,RealityNews9,9004,0,FRSDV,194416,Tor 0.4.9.5,email:jingojngo at gmail.com url:https://walabywoo.com proof:uri-rsa pgp:F8A61A2F cost:70GBP uplinkbw:80,2026-03-23
 185.126.115.234,,Greensky,443,0,FGHRSDV,4971738,Tor 0.4.8.21,TOR-Greensky@proton.me,2026-03-23
-217.154.59.107,,DonaldTorump,443,0,FRDV,2134943,Tor 0.4.8.21,donaldtorump@proton.me,2026-03-23
 5.45.102.93,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,792092,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
 51.175.203.152,,bojaRelay1,9001,0,FGHRSDV,6633194,Tor 0.4.8.21,Riccardo riccardo@bojafa.us,2026-03-23
 45.95.169.164,,fatfingers,9001,0,FHRSDV,907284,Tor 0.4.9.5,,2026-03-23
@@ -3364,7 +3371,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 86.80.225.203,,JobiWan,1080,0,FGHRSDV,10169968,Tor 0.4.8.21,Jobi-Wanker-Nobi &lt;help me dot jobi wan AT gmail dot com&gt;,2026-03-23
 152.53.197.64,,configedited,9001,0,FGHRSDV,5446868,Tor 0.4.8.21,tor@rehcamp.de,2026-03-23
 185.107.57.64,ExitNode,doraemon,443,0,FGHRSDVX,583251,Tor 0.4.9.5,Abuse Team: &lt;tor-abuse _at_ ciopmail _dot_ net&gt;,2026-03-23
-164.92.172.195,,NebulaCactus,7443,0,FRV,62583,Tor 0.4.8.21,anyone-motor-cycle@duck.com,2026-03-23
 64.65.1.50,,skoolytwo9,443,0,FGHRSDV,662408,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 151.237.82.153,,Unnamed,9001,0,FGHRSDV,1263602,Tor 0.4.9.5,,2026-03-23
 194.163.157.49,ExitNode,Rivamonde,443,0,EFGHRSDV,2837394,Tor 0.4.9.5,n0p33king{at}tuta{ d o t }io,2026-03-23
@@ -3515,7 +3521,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 91.143.88.62,,Freebird31,443,0,FGHRSDV,1166441,Tor 0.4.9.5,email:zwiebel[]quantentunnel.de url:https://doedelkiste.de proof:uri-rsa ciissversion:2 pgp:B92D34508B5CBFDA78B0D452B7159C13F1C,2026-03-23
 178.17.170.172,,chaussette1,443,0,FGHRSDV,777663,Tor 0.4.9.5,tata at sud-ouest dot org,2026-03-23
 90.26.35.238,,Notchka,9001,0,RSDV,1360710,Tor 0.4.9.5,notchkalechat@proton.me,2026-03-23
-140.238.218.248,,magic848relay,9001,0,FRV,9641045,Tor 0.4.8.21,tor-operator@mufff.in,2026-03-23
 114.35.245.150,ExitNode,initramfs,9001,0,EFGHRSDV,367266,Tor 0.4.9.5,0x535E2411692D32C3B6407FA18F86F9DF371A5F64 &lt;initramfs AT initramfs DOT io&gt; - bc1p03vdlv7zq8kxjs6e6wuvr2qc98avfacys94afyf23q964f,2026-03-23
 178.33.84.131,,szczot3k131,9004,0,FGHRSDV,1098024,Tor 0.4.9.5,Filip Kszczot &lt;tor /AT/ kszczot /DOT/ pl&gt; url:kszczot.pl proof:dns-rsa ciissversion:2,2026-03-23
 64.65.62.206,,youssoupha,443,0,FGHRSDV,2556089,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -3530,6 +3535,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 126.52.35.132,,CuriousGeorge,9001,0,FHRSDV,4719323,Tor 0.4.8.21,,2026-03-23
 64.65.1.177,,flygangsta,443,0,FGHRSDV,666009,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 193.31.117.236,,TRRelay1,443,0,RDV,2,Tor 0.4.9.5,umutcankurhan8@gmail.com,2026-03-23
+185.220.101.99,ExitNode,,,,,,,,2026-03-23
 46.224.36.195,,server14r3,9201,0,FRDV,329785,Tor 0.4.9.5,Steve &lt;tor@digital-world.dev&gt;,2026-03-23
 151.242.132.120,,TheShadowRoute14,9001,0,FGHRSDV,1166446,Tor 0.4.9.5,email:tor-node+shdrt14[]hobi.one abuse:tor-node+shdrt14[]hobi.one uplinkbw:48 memory:2000 virtualization:kvm,2026-03-23
 82.153.138.103,,Unnamed,9001,0,FRV,1201,Tor 0.4.9.5,,2026-03-23
@@ -3688,6 +3694,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 109.70.100.13,ExitNode,pelikan,9005,0,EFRSV,64804,Tor 0.4.9.5,Foundation for Applied Privacy email:tor[]appliedprivacy.net twitter:applied_privacy donationurl:https://applied-privacy.net/do,2026-03-23
 91.208.184.245,,Mamaliga,443,0,FGHRSDV,1443693,Tor 0.4.8.21,TOR-Mamaliga@proton.me,2026-03-23
 99.106.143.239,,tornode,9001,0,FGHRSDV,583298,Tor 0.4.9.5,free.anonymous@internet.com,2026-03-23
+185.220.101.102,ExitNode,,,,,,,,2026-03-23
 79.23.149.184,,zighinettohome,9001,0,FGRSDV,79,Tor 0.4.8.18,tor -----symbol for email---- zigh in et to --separator-- org,2026-03-23
 64.65.63.1,,koolmoedee,443,0,FGHRSDV,2581293,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 64.65.0.9,,fatnick,443,0,FGHRSDV,2566840,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -3761,6 +3768,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 37.187.103.54,,ABCVG,443,0,FGHRSDV,20241985,Tor 0.4.8.12,lostmc1@mail.ru,2026-03-23
 23.239.15.115,,TorIFNSS,9001,0,FRSV,1593550,Tor 0.4.9.5,,2026-03-23
 192.67.197.158,,BSDrelay08,443,0,FGRSDV,129620,Tor 0.4.9.5,email:zwiebelrouter[]protonmail[]com url:zwiebelrouter.net proof:dns-rsa ciissversion:2 os:FreeBSD,2026-03-23
+185.212.226.76,ExitNode,,,,,,,,2026-03-23
 96.9.98.167,,showbiz,443,0,FGHRSDV,2484019,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 192.42.116.127,,NTH127R1,443,0,FGRSDV,862163,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
 46.165.194.56,ExitNode,softmouse,443,0,EFGHRSDV,5288545,Tor 0.4.8.13,softmouse@mailfence.com,2026-03-23
@@ -3899,6 +3907,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 82.196.11.10,,fuckwar,9001,0,FRSV,1772420,Tor 0.4.9.5,mftn@pm.me,2026-03-23
 45.84.107.55,ExitNode,r0cket06i6,5349,0,EFRSV,774017,Tor 0.4.9.5,email:tor[]r0cket.net url:https://tor.r0cket.net/ proof:uri-rsa abuse:abuse[]r0cket.net hoster:r0cket.cloud,2026-03-23
 23.129.64.162,ExitNode,dingledine,443,0,EFGHRSDV,2048489,Tor 0.4.9.5,email:tech[]emeraldonion.org url:https://emeraldonion.org proof:uri-rsa abuse:tech[]emeraldonion.org,2026-03-23
+212.227.170.28,,,,,,,,,2026-03-23
 185.204.54.227,,wanderer,9030,0,FRSV,64806,Tor 0.4.8.21,wanderer@gmail.com,2026-03-23
 95.215.205.7,,eth0,443,0,FGHRSDV,5551291,Tor 0.4.8.21,ether1991 at pm.me,2026-03-23
 64.65.62.215,,sirmixalot,443,0,FGHRSDV,2584803,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -3935,6 +3944,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 15.204.183.156,,SaltyFox,8443,0,FGHRSDV,2059241,Tor 0.4.8.21,,2026-03-23
 209.141.55.26,ExitNode,andr788k,9001,0,EFGHRSDV,1620882,Tor 0.4.8.12,andr788k(at)airmail(dot)cc [tor-relay.co],2026-03-23
 193.187.255.204,,psychohurricane,443,0,FHRSDV,713114,Tor 0.4.9.5,&lt;mocha-dreary-chive AT duck dot com&gt;,2026-03-23
+207.148.2.45,,,,,,,,,2026-03-23
 45.92.33.62,,kykeon,9000,0,FGHRSDV,2142870,Tor 0.4.8.21,,2026-03-23
 5.133.102.214,,LAA,9001,0,FGHRSDV,2077222,Tor 0.4.8.21,cwtch ajitml4qclm5cutvg24phpnpgzzkya3nruvo5hgxlubup6bad3xbilqd,2026-03-23
 1.201.176.169,,AsianaOnionDurian,443,0,FRV,259281,Tor 0.4.9.5,email:master[]asianaonion.org url:asianaonion.org proof:uri-rsa btc:bc1q6y46dng4s5qmdpfc5lun6cnh2va8h4zsmvumjk,2026-03-23
@@ -4501,6 +4511,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 62.241.225.137,,Silentspirit,9001,0,FRDV,66000,Tor 0.4.8.22,spirits.certify423@passfwd.com,2026-03-23
 185.225.69.187,ExitNode,BeattheHeat,9001,0,EFGHRSDV,4140083,Tor 0.4.8.22,laladee@posteo.net,2026-03-23
 90.155.5.6,,aanetuk,443,0,FHRSDV,414022,Tor 0.4.8.16,0x3104709C support@aa.net.uk,2026-03-23
+185.220.101.105,ExitNode,,,,,,,,2026-03-23
 207.246.62.87,,TorASU,9001,0,FGHRSDV,3297607,Tor 0.4.9.5,tor@breakpointingbad.com,2026-03-23
 193.63.58.76,,gnosti,9001,0,FGHRSDV,8096597,Tor 0.4.8.12,Steven Murdoch &lt;tor-admin at cs.ucl.ac.uk&gt; 8iylbsejba6,2026-03-23
 162.251.166.210,,onionmatic,443,0,FGRSDV,129607,Tor 0.4.9.5,admin at wakegi dot net,2026-03-23
@@ -4542,6 +4553,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 51.158.204.114,,severancecheck,443,0,FGHRSDV,4438963,Tor 0.4.8.22,,2026-03-23
 15.204.11.248,,KavinRelay,9001,0,FGHRSDV,5846552,Tor 0.4.8.21,Kavin &lt;kavin-tor AT protonmail dot com&gt;,2026-03-23
 146.190.63.228,,Unnamed,9001,0,FRSV,2041281,Tor 0.4.9.5,,2026-03-23
+158.101.181.77,,,,,,,,,2026-03-23
 193.11.164.243,,Lule,9001,0,FGHRSDV,3114037,Tor 0.4.9.5,Linus Nordberg 4096R/23291265 &lt;linus+tor@sunet.se&gt;,2026-03-23
 37.221.212.147,,AntonPann3,443,0,FGHRSDV,10584178,Tor 0.4.8.21,tzancauraganul@proton.me,2026-03-23
 91.219.237.218,,taquered,9001,0,FRV,388908,Tor 0.4.9.5,chetb9@gmail.com,2026-03-23
@@ -4763,9 +4775,9 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 212.227.85.103,,BSDrelay03,443,0,FGRSDV,129618,Tor 0.4.9.5,email:zwiebelrouter[]protonmail[]com url:zwiebelrouter.net proof:dns-rsa ciissversion:2 os:FreeBSD,2026-03-23
 91.208.75.153,ExitNode,Nobutomo,443,0,EFGHRSDV,2998850,Tor 0.4.9.5,jets843@privatemail.com,2026-03-23
 170.187.201.115,,Tiger76141,9001,0,FGHRSDV,2074166,Tor 0.4.8.22,gdhong2896@proton.me,2026-03-23
+49.247.136.174,,cutehanyuiSERVER,9100,0,FHRSDV,1998008,Tor 0.4.8.21,yuihan670@koreahacker.co.kr,2026-03-23
 87.106.168.172,,RmbrViliViorelPaun,443,0,FGHRSDV,3132146,Tor 0.4.9.5,0xa1@mailbox.org,2026-03-23
 185.220.101.18,ExitNode,artikel10ber72,9004,0,EFRSV,705615,Tor 0.4.9.5,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2026-03-23
-49.247.136.174,,cutehanyuiSERVER,9100,0,FHRSDV,1998008,Tor 0.4.8.21,yuihan670@koreahacker.co.kr,2026-03-23
 178.79.134.196,,insula,9001,0,RSDV,4676413,Tor 0.4.8.14,,2026-03-23
 139.59.58.109,,fenrir,443,0,FRSDV,2060569,Tor 0.4.8.12,0xF5427D49 feral_fenrir &lt;kaushal dot 1991 AT gmail dot com&gt;,2026-03-23
 89.116.27.105,,FreedomAgainstPutin,25565,0,FRV,185537,Tor 0.4.9.5,qcu56dfql@mozmail.com,2026-03-23
@@ -4835,6 +4847,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.220.101.34,ExitNode,ForPrivacyNET,10134,0,EFGRSDV,28804,Tor 0.5.0.0-alpha-dev,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2026-03-23
 46.128.117.161,,idideditheconfig,9001,0,RDV,1201,Tor 0.4.9.5,tor@jo-bu.eu,2026-03-23
 208.113.128.254,,TorRelaylxbchppt,9001,0,FGHRSDV,7642603,Tor 0.4.8.0-alpha-dev,pwcrack@pwcrack.com,2026-03-23
+185.220.101.110,ExitNode,,,,,,,,2026-03-23
 163.172.251.6,,M0mjeenz,9001,0,FGHRSDV,1881551,Tor 0.4.8.21,,2026-03-23
 162.156.15.58,,HomeNode01,9001,0,FHRSDV,583281,Tor 0.4.9.5,zkeyscore[at]proton[dot]me,2026-03-23
 85.66.215.123,,MegaPint,9001,0,FRDV,132445,Tor 0.4.8.21,email,2026-03-23
@@ -4948,7 +4961,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 192.42.116.110,,NTH110R1,443,0,FGHRSDV,868704,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
 109.70.100.3,ExitNode,sellerie,9005,0,EFRSV,64711,Tor 0.4.9.5,Foundation for Applied Privacy email:tor[]appliedprivacy.net twitter:applied_privacy donationurl:https://applied-privacy.net/do,2026-03-23
 185.181.62.109,,Johand,443,0,FGHRSDV,619202,Tor 0.4.9.5,email:tor[]johand.dev url:johand.dev proof:uri-rsa abuse:tor[]johand.dev hoster:Gigahost cost:80USD,2026-03-23
-49.12.5.31,,melon,6666,0,FRV,1,Tor 0.4.8.21,i2de8790(at)duck.com,2026-03-23
 149.56.13.82,,AutomatonRelay,9001,0,FHRSDV,702002,Tor 0.4.9.5,tor.breach344@passinbox.com,2026-03-23
 213.95.149.22,ExitNode,smurfix,9001,0,EFHRSDV,7509889,Tor 0.4.8.16,0x25B4C293 Matthias Urlichs &lt;matthias@urlichs.de&gt;,2026-03-23
 192.42.116.69,,NTH69R1,443,0,FGHRSDV,860408,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
@@ -5045,6 +5057,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.1.161,,crunchyblack,443,0,FGHRSDV,666010,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 45.84.107.142,,LinkedInSucks,8443,0,FGHRSDV,324063,Tor 0.4.8.21,w3x0cvqh7u4dccyj7369zy6@proton.me,2026-03-23
 178.19.96.125,,TorUser793,27941,0,FRSV,14738510,Tor 0.4.8.12,,2026-03-23
+141.147.0.177,,,,,,,,,2026-03-23
 46.38.237.221,,mine,9001,0,FGHRSDV,4860167,Tor 0.4.8.18,heinrich5991 &lt;heinrich5991@gmail.com&gt;,2026-03-23
 64.65.2.90,,duckworth,443,0,FGHRSDV,3157505,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 45.141.215.110,ExitNode,Quetzalcoatl,9100,0,EFGRSDV,64809,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
@@ -5083,6 +5096,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 96.9.98.119,,nelly,443,0,FGHRSDV,2484022,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 192.42.116.117,,NTH117R1,443,0,FGHRSDV,828700,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
 137.74.119.109,,FreeHackCom,9001,0,FGHRSDV,41558514,Tor 0.4.8.13,Leader &lt;leader AT free-hack dot com&gt;,2026-03-23
+172.104.136.182,,,,,,,,,2026-03-23
 195.201.12.217,,CheeseRobot,9001,0,FGHRSDV,892929,Tor 0.4.9.5,,2026-03-23
 64.65.2.80,,dreamville,443,0,FGHRSDV,3157445,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 64.65.63.123,,famousoceans,443,0,FGHRSDV,2581279,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -5102,6 +5116,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 176.150.204.179,,wookieetor,9001,0,FGHRSDV,1690963,Tor 0.4.9.5,Ivan CHEREL &lt;lambdhack[AT]lambdhack[dot]bzh&gt;,2026-03-23
 84.252.122.96,,toptor1,9001,0,FGHRSDV,3218434,Tor 0.4.9.5,email:s8pn910sokiig0cc76bl2qud[]systemli.org abuse:s8pn910sokiig0cc76bl2qud[]systemli.org hoster:https://st-hosting.com/,2026-03-23
 124.198.131.25,,TheMadHackerSocks5,443,0,FGRSDV,64808,Tor 0.4.8.21,TheMadHacker &lt;TheMadHacker AT themadhacker dot net&gt;,2026-03-23
+185.220.101.100,ExitNode,,,,,,,,2026-03-23
 96.9.98.113,,dipset,443,0,FGHRSDV,2484019,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 65.109.174.85,,KhanKrumCloud2,9001,0,FGHRSDV,1360852,Tor 0.4.9.5,khankrum359@gmail.com,2026-03-23
 85.215.249.184,,arlisRelay,443,0,FGRSDV,1688155,Tor 0.4.8.22,arli@arli21.me,2026-03-23
@@ -5188,6 +5203,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.220.101.51,ExitNode,ForPrivacyNET,10051,0,EFGRSDV,5,Tor 0.5.0.0-alpha-dev,email:admin@for-privacy.net url:for-privacy.net proof:dns-rsa abuse:abuse@for-privacy.net pgp:9A2AAD5A0DEF92D9DFE5442A58226EF51,2026-03-23
 71.19.148.104,,dione,9001,0,RSDV,6382818,Tor 0.4.8.21,email:tor[]solace.net ciissversion:2,2026-03-23
 31.17.44.37,,PrivacyComDeR1,9001,0,FHRSDV,390009,Tor 0.4.9.5,oimnidtx@4wrd.cc,2026-03-23
+85.215.132.55,,,,,,,,,2026-03-23
 96.9.98.86,,youngthug,443,0,FGHRSDV,2484020,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 5.255.119.76,ExitNode,CamelLites,9100,0,EFGHRSDV,2706974,Tor 0.4.9.5,alladins lamp at proton . me,2026-03-23
 23.126.9.217,,Guy1Relay,9001,0,FGRSDV,2,Tor 0.4.9.5,myemail@example.com,2026-03-23
@@ -5601,7 +5617,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 15.204.53.173,,Echoecho,9002,0,FGHRSDV,5598258,Tor 0.4.8.21,Echoecho123e@proton.me,2026-03-23
 15.204.59.68,,anarchosyndical3,9001,0,FGHRSDV,10004471,Tor 0.4.8.21,tor@anarchosyndical.org,2026-03-23
 63.141.234.37,,pnkantor002,9001,0,FHRSDV,1767988,Tor 0.4.8.13,tor[at]plasmanetworks(dot)net,2026-03-23
-192.42.116.59,,NTH59R1,443,0,FGRSDV,831922,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
 140.235.4.228,,PathConnect,9001,0,FRSDV,241215,Tor 0.4.9.5,abuse:abuse[]pathconnect.de,2026-03-23
 107.175.63.59,,opencommunity,9954,0,FHRSDV,777654,Tor 0.4.8.21,opencommunities __at__ proton.me,2026-03-23
 188.166.87.136,,wintermute,9001,0,FRSV,64833,Tor 0.4.8.12,rng29a &lt;rng29a@wintermute.info&gt;,2026-03-23
@@ -5631,7 +5646,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 72.45.168.60,,arelay4u,9001,0,FHRSDV,453696,Tor 0.4.8.21,mist _ webinator @ c. ubefree. net,2026-03-23
 107.189.8.56,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,842657,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
 104.168.88.59,,myN0de1,6587,0,FGHRSDV,712847,Tor 0.4.9.5,your@e-mail,2026-03-23
-179.43.134.22,ExitNode,digitalpuma01,9001,0,BEFGHRSDV,4039303,Tor 0.4.8.22,,2026-03-23
 64.65.2.103,,elp,443,0,FGHRSDV,3157445,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 104.152.208.15,,fluffypancakes007ca,443,0,FGHRSDV,3,Tor 0.4.9.5,email:admin[]fluffypancakes.dev url:fluffypancakes.dev proof:uri-rsa ciissversion:2,2026-03-23
 64.65.62.97,,yelawolf,443,0,FGHRSDV,2556143,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -5760,6 +5774,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 223.206.45.58,,ichundes,9001,0,FRDV,2383,Tor 0.4.9.5,0x1CB3AA2143109AAC Axel Gembe &lt;axel@gembe.net&gt;,2026-03-23
 45.90.217.212,,forester,1443,0,FGHRSDV,2797283,Tor 0.4.9.5,derekfletcher@firemail.de,2026-03-23
 194.164.22.145,,toriesfuckedtheuk,9001,0,FGHRSDV,3281556,Tor 0.4.9.5,Web Master &lt;tor AT torieshavefuckedthe dot uk&gt;,2026-03-23
+74.208.242.107,,,,,,,,,2026-03-23
 92.113.124.30,,forest17,9001,0,FRSV,842422,Tor 0.4.9.5,email:forest-relay-contact[]cryptolab.net pgp:BCBAE3E9CB8E2FE23F29DC58061D7CAC428DD60B ciissversion:2,2026-03-23
 64.65.63.105,,shawnna,443,0,FGHRSDV,2577678,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 82.165.14.201,,test,443,0,FGRSDV,3,Tor 0.4.8.10,your@e-mail,2026-03-23
@@ -5789,6 +5804,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 64.65.62.62,,ozuna,443,0,FGHRSDV,2570488,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 45.66.35.29,ExitNode,torexitams09,1984,0,EFGHRSDV,1346426,Tor 0.4.9.5,email:usura[]sabotage.org url:https://sabotage.net proof:uri-rsa abuse:abuse[]sabotage.net twitter:adejoode,2026-03-23
 157.90.212.53,,itomori,443,0,FGHRSDV,565540,Tor 0.4.9.5,url:katawaredoki.net proof:dns-rsa ciissversion:2 btc:bc1qkclqn6kelhkyryllhzdax46j2xs75khjmr39va zec:zs1z3fvvxlrp8t3p0vunkern7l,2026-03-23
+185.220.101.107,ExitNode,,,,,,,,2026-03-23
 92.118.206.161,ExitNode,InvisibleInternet,9001,0,EFRDV,255492,Tor 0.4.9.5,i2prouter[AT]proton[DOT]me,2026-03-23
 45.11.171.79,,CutieCutieNyaa,9001,0,FRSDV,194428,Tor 0.4.9.5,shy.wolf9185@fastmail.com,2026-03-23
 81.168.83.104,,prsv,9300,0,FGRSDV,4,Tor 0.4.9.5,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2026-03-23
@@ -5905,6 +5921,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 154.90.54.69,,Hub234,9001,0,FHRSDV,321135,Tor 0.4.9.5,,2026-03-23
 192.42.116.107,,NTH107R1,443,0,FGHRSDV,826042,Tor 0.4.9.5,email:mail[]nothingtohide.nl url:nothingtohide.nl proof:uri-rsa abuse:abuse[]nothingtohide.nl ciissversion:2,2026-03-23
 88.99.145.25,,Peabody,9993,0,FGHRSDV,4777243,Tor 0.4.8.21,Contact: peabodysrv AT odinbox DOT xyz 1GLB7QLpc4NFD6gHa3jt5oTNFnP2eYXC8S,2026-03-23
+185.220.101.97,ExitNode,,,,,,,,2026-03-23
 63.141.234.38,,pnkantor001,9001,0,FHRSDV,1740275,Tor 0.4.8.13,tor[at]plasmanetworks(dot)net,2026-03-23
 198.251.67.184,,pewpew,9001,0,FGHRSDV,2142090,Tor 0.4.9.5,contact@sachin.cool,2026-03-23
 94.228.209.183,,onearth,24037,0,FRDV,75599,Tor 0.4.9.5,on@earth,2026-03-23
@@ -6015,6 +6032,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 68.49.209.148,,torpi,9001,0,RSDV,1231351,Tor 0.4.9.5,,2026-03-23
 185.220.101.160,ExitNode,relayon0160,10160,0,EFRSV,5587455,Tor 0.4.8.21,url:relayon.org proof:uri-rsa abuse:abuse[]relayon.org ciissversion:2,2026-03-23
 74.82.47.194,ExitNode,deadbabecafe,9001,0,EFGHRSDV,3021054,Tor 0.4.8.21,amuse &lt;tor-amuse AT foofus dot com&gt;,2026-03-23
+181.166.202.84,ExitNode,,,,,,,,2026-03-23
 179.43.182.16,,rainbowdaash2,9001,0,FGHRSDV,2728839,Tor 0.4.9.5,limited0ne@gmx.com,2026-03-23
 142.44.227.24,,iamphoenix,9191,0,FGHRSDV,43135293,Tor 0.4.8.12,,2026-03-23
 185.126.237.222,,halfway,9001,0,FGHRSDV,778819,Tor 0.4.9.5,didnt do nuffin----- s1xs3v3n67 @proton.me,2026-03-23
@@ -6151,8 +6169,10 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 162.216.18.62,ExitNode,popeye,443,0,EFGRSDV,2,Tor 0.5.0.0-alpha-dev,hello@relaymagic.org (relaymagic.org/contact),2026-03-23
 64.65.0.44,,mclars,443,0,FGHRSDV,2566838,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 185.80.222.164,,pataky,443,0,FGHRSDV,2358186,Tor 0.4.8.21,,2026-03-23
+82.165.171.134,,,,,,,,,2026-03-23
 23.191.200.23,ExitNode,UnredactedBB,443,0,EFRSDV,64804,Tor 0.4.9.5,email:admin[@]unredacted.org url:unredacted.org proof:uri-rsa ciissversion:2,2026-03-23
 93.95.227.37,ExitNode,iceberg,9001,0,EFGHRSDV,2073707,Tor 0.4.8.21,contact@cypher.re,2026-03-23
+23.236.122.193,ExitNode,,,,,,,,2026-03-23
 157.254.54.235,,JohnFilch123,9001,0,FRSV,975618,Tor 0.4.9.5,relay operator - contact: lucasvandekwq [at] rambler [dot] ru,2026-03-23
 185.225.19.159,,Kangadily,9001,0,FGHRSDV,594007,Tor 0.4.9.5,,2026-03-23
 167.235.131.114,,rwxrwxrwx,9001,0,RSV,4,Tor 0.4.8.21,creuss &lt; torcr AT shaizen dot de&gt;,2026-03-23
@@ -6190,6 +6210,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 212.90.39.112,,ididnteditheconfig,9001,0,FGHRSDV,1224181,Tor 0.4.8.14,Random Person nobody@tor.org,2026-03-23
 64.65.1.111,,eddolo,443,0,FGHRSDV,666010,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 164.90.131.37,ExitNode,Hera,9999,0,BFRSVX,2009043,Tor 0.4.8.10,RandomPerson &lt;skynet@academyforinternetresearch.org&gt;,2026-03-23
+83.217.163.71,,,,,,,,,2026-03-23
 167.179.99.77,,risk7,9001,0,FHRSDV,8514072,Tor 0.4.8.21,,2026-03-23
 95.216.22.24,,sklep,9090,0,FGHRSDV,6649231,Tor 0.4.8.21,Witam!!! kontakt:jan AT hidemymail.xyz,2026-03-23
 207.55.68.171,,DarkOrchard,9001,0,FHRSDV,522867,Tor 0.4.9.5,Steven shannxi12@proton.me,2026-03-23
@@ -6280,7 +6301,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 67.217.244.5,ExitNode,TheMadHackerNodeV3,9002,0,EFGHRSDV,5436008,Tor 0.4.8.21,TheMadHacker &lt;themadhacker AT themadhacker dot net&gt;,2026-03-23
 185.132.53.199,,forest12,9001,0,FGRSDV,2,Tor 0.4.9.5,email:forest-relay-contact[]cryptolab.net pgp:BCBAE3E9CB8E2FE23F29DC58061D7CAC428DD60B ciissversion:2,2026-03-23
 89.147.110.118,ExitNode,syndicateguys,9001,0,EFGHRSDV,15004874,Tor 0.4.8.13,info@syndicateguys.com,2026-03-23
-89.168.34.94,,ieditedtheconfig,443,0,FRDV,271673,Tor 0.4.9.5,kjhngfbsdcqx at gmail dot com,2026-03-23
 108.165.176.46,,ididedittheconfig,8045,0,FHRSDV,924471,Tor 0.4.8.21,&lt;dootdootcooll@gmail.com&gt;,2026-03-23
 109.255.184.38,,Sadie,9001,0,RSV,4183235,Tor 0.4.8.21,email:tor[]irishranger.com proof:uri-rsa abuse:abuse[]irishranger.com twitter:irishtlr uplinkbw:50,2026-03-23
 212.228.22.167,,jimr1603,9420,0,FGHRSDV,2227556,Tor 0.4.8.16,James R &lt;jimr1603 AT google dot com&gt;,2026-03-23
@@ -6295,7 +6315,6 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 83.168.108.31,,zgato,443,0,FGRSDV,3,Tor 0.4.9.5,tor@zgato.ru,2026-03-23
 195.90.215.10,,Unnamed,9001,0,RSDV,7351227,Tor 0.4.8.17,,2026-03-23
 51.158.145.112,,idideditheconfig345,59001,0,FGHRSDV,2026496,Tor 0.4.9.5,Roman Pasty &lt;romanpasty82@duck.com&gt;,2026-03-23
-87.106.161.235,,tor1,443,0,FRDV,9922635,Tor 0.4.8.21,darmstadt@fridaysforfuture.de,2026-03-23
 95.129.6.37,,PillarOfSeasons,9050,0,FRDV,1070,Tor 0.4.9.5,TorRelay-PillarOfSeasons@proton.me,2026-03-23
 96.9.98.23,,destroylonely,443,0,FGHRSDV,2473228,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 145.220.0.15,,Schmutzig,9001,0,FGHRSDV,12639860,Tor 0.4.8.18,Gijs Rijnders (tor AT ip-eend DOT nl),2026-03-23
@@ -6383,6 +6402,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 91.48.210.177,,Areon,9002,0,FRDV,194405,Tor 0.4.8.21,C PUNKT Schoch AT web PUNKT de,2026-03-23
 92.204.40.241,,dcon,443,0,FGHRSDV,44323627,Tor 0.4.8.12,,2026-03-23
 64.65.2.250,,rugerofficial,443,0,FGHRSDV,3157445,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
+185.220.101.101,ExitNode,,,,,,,,2026-03-23
 85.195.244.251,,ChocolateBit,28123,0,FGHRSDV,777855,Tor 0.4.9.5,chocolatebyte.mvb0y@slmails.com,2026-03-23
 83.212.81.32,,krommydas,443,0,FGHRSDV,752612,Tor 0.4.8.12,your@e-mail,2026-03-23
 38.135.25.127,ExitNode,prsv,9300,0,EFGHRSDV,615610,Tor 0.4.9.5,email:admin[]prsv.ch url:https://prsv.ch/ proof:uri-rsa ciissversion:2,2026-03-23
@@ -6460,6 +6480,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 172.104.208.190,,hydrogenuine,443,0,FGHRSDV,9277316,Tor 0.4.8.21,tor-relay.fastquake@com (swap characters),2026-03-23
 185.220.101.12,ExitNode,artikel10ber48,9004,0,EFRSV,705614,Tor 0.4.9.5,Artikel10 url:artikel10.org email:info[]artikel10.org abuse:abuse[]artikel10.org gpg:401C81D432FBAD2CEEB0FA145A7563B99D808815,2026-03-23
 213.113.4.200,,LupusreginaBeta,6881,0,FGRSDV,259207,Tor 0.4.9.5,admin &lt;tor DASH qj5wjf2p AT dezponia DOT se&gt;,2026-03-23
+5.250.179.163,,,,,,,,,2026-03-23
 96.9.98.14,,mozzy,443,0,FGHRSDV,2516468,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 64.65.1.38,,jodybreeze,443,0,FGHRSDV,715223,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 64.65.1.59,,piccalogrindmode,443,0,FGHRSDV,712818,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -6588,6 +6609,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 204.8.96.120,ExitNode,QuintexAirVPN1,443,0,EFGHRSDV,16027272,Tor 0.4.8.18,email:john[]quintex.com url:https://www.quintex.com proof:uri-rsa abuse:john[]quintex.com keybase:aquintex,2026-03-23
 91.216.111.52,,kyra,9001,0,FRSV,469690,Tor 0.4.8.13,Kyra &lt;kyra AT desire DOT se&gt;,2026-03-23
 188.68.52.231,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,777686,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
+185.220.101.96,ExitNode,,,,,,,,2026-03-23
 47.250.80.226,ExitNode,Unnamed,9002,0,ERSDV,5249362,Tor 0.4.8.21,,2026-03-23
 77.83.198.149,,rainbowexperience,9001,0,FGHRSDV,3207716,Tor 0.4.9.5,,2026-03-23
 64.65.62.226,,markwahlberg,443,0,FGHRSDV,2556085,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
@@ -6688,6 +6710,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 185.124.240.98,,theaggressivecrown,9001,0,FGHRSDV,1171918,Tor 0.4.9.5,,2026-03-23
 193.31.27.127,,luna,9001,0,FGHRSDV,712838,Tor 0.4.9.5,,2026-03-23
 64.65.62.208,,zackhemsey,443,0,FGHRSDV,2556146,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
+89.145.165.31,,,,,,,,,2026-03-23
 89.46.100.71,,trainmaster,443,0,FGHRSDV,709227,Tor 0.4.9.5,,2026-03-23
 212.227.65.42,,v205,443,0,FGHRSDV,388875,Tor 0.4.9.5,TorManager &lt;tor@hint.de&gt;,2026-03-23
 5.255.117.152,ExitNode,5535100665286881,9001,0,EFGHRSDV,4554119,Tor 0.4.8.22,john_rt291141(at)proton(dot)me,2026-03-23
@@ -6819,6 +6842,7 @@ IP,IsExit,Name,OnionPort,DirPort,Flags,Uptime,Version,Contact,CollectionDate
 45.80.158.142,ExitNode,Quetzalcoatl,9100,0,EFGHRSDV,1685012,Tor 0.4.9.5,email:Quetzalcoatl_relays[]proton.me url:https://quetzalcoatl-relays.org proof:uri-rsa hoster:rdp.sh,2026-03-23
 64.65.2.53,,busta,443,0,FGHRSDV,3157445,Tor 0.4.9.5,email:tor[]1aeo.com url:https://www.1aeo.com proof:uri-rsa abuse:abuse[]1aeo.com ciissversion:2,2026-03-23
 158.101.206.214,,Noname1572,9090,0,RSDV,712874,Tor 0.4.9.5,torrelay@gmx.com,2026-03-23
+97.228.71.231,ExitNode,,,,,,,,2026-03-23
 45.153.124.152,,Weeblelikesanon,9001,0,FRV,1603792,Tor 0.4.8.14,,2026-03-23
 217.154.216.28,,TorNode06,9001,0,FRSV,2,Tor 0.4.9.5,mRtjR4JX6pgJ@protonmail.ch,2026-03-23
 23.151.76.14,,Szeth,9001,0,FRSDV,712864,Tor 0.4.8.21,hi@agfid.com,2026-03-23
